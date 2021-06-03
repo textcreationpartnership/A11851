@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here begynneth the seynge of urynes, of all the colours that uryns be of with medycynes annexed to euery uryne, [and] euery uryne his urynall, not imprynted in englysshe before this tyme, moche profytable for euery man to knowe.</title>
+            <title>Seynge of uryns.</title>
+         </titleStmt>
+         <extent>Approx. 88KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A11851</idno><idno type="EEBO-CITATION">99846364</idno>
+  <idno type="VID">11326</idno>
+  <idno type="EEBO-PROQUEST">2240906568</idno>
+  <idno type="STC">STC 22153</idno>
+  <idno type="STC">ESTC S110910</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99846364e"/>
+            <note>(EEBO-TCP ; phase 2, no. A11851)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11326)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 519:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here begynneth the seynge of urynes, of all the colours that uryns be of with medycynes annexed to euery uryne, [and] euery uryne his urynall, not imprynted in englysshe before this tyme, moche profytable for euery man to knowe.</title>
+                  <title>Seynge of uryns.</title>
+               </titleStmt>
+               <extent>[64] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Imprynted by [J. Rastell for] me Rycharde Banckes dwellynge in London in the Pultry, a lytell fro ye stockes, at the lo[n]ge shoppe by saynt Myldredes churche dore,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>The. xxvii. day of May, the yere of our lord M.CCCCC. and. xxv. [1525]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Leaf C4 has two paragraphs on pregnancy omitted in other editions.</note>
+                  <note>At foot of title: Cu[m] gratia et priuilegio a rege indulto.</note>
+                  <note>Imprint from colophon; actual printer's name from STC.</note>
+                  <note>Signatures: A-H⁴.</note>
+                  <note>Reproduction of a photostat of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Urine --  Analysis --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:11326:1"/>
+            <pb facs="tcp:11326:1"/>
+            <p> ¶ Here begynneth the seynge of Vryns / of all the colours that Vryns be of / with medycynes annexed to eue<g ref="char:EOLhyphen"/>ry Vryne / &amp; euery Vryne his Vrynall / not Imprynted in englysshe before this tyme / moche profytable for euery man to knowe.</p>
+            <p>¶ Cū gratia et priuilegio a rege indulto.</p>
+            <figure>
+               <figDesc>man holding piss pot</figDesc>
+            </figure>
+            <pb facs="tcp:11326:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:11326:2"/>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure>
+               <seg rend="decorInit">I</seg>N the begynnynge of this goodly treatys thou muste take hede to foure thynges. That is to say / to the substaunce / to the colours / to the regyons / and to y<seg rend="sup">•</seg> contentes / whiche longe to the dome of vryne. And fyrste loke to the vryne whyther it be thycke or thynne / orels bytwene bothe / thā shal thou se throughe the vryne y<seg rend="sup">e</seg> ioyntes of thy fyngers / and than it betokeneth a badde stomake and water in y<seg rend="sup">•</seg> bowelles. And yf it y<seg rend="sup">e</seg> vryne be bytwene thycke and thynne than it betokeneth swellynge of y<seg rend="sup">e</seg> gall. The seconde is that thou shall take hede to the colours of the vryne / as sayth y<seg rend="sup">e</seg> mayster of physyke. And these be the colours of waters that folowe</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The fyrst colour is whyte as Clay water of a well. This colour betokeneth indege<g ref="char:EOLhyphen"/>styon and a bad stomake &amp; a bad lyuer. If thou se in this colour many shynynge beames / it be<g ref="char:EOLhyphen"/>tokeneth a postume in y<seg rend="sup">e</seg> mylte. ¶ Medicina. Take Gromell Saxfrage Persly and Sage / and boyle them in stale ale and drynke it. Also vse powder of them in thy potage.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The secōde colour is whyte as whay. If this vryne be troubled thycke / and lytell in quantyte with whyte contentes / it betoke<g ref="char:EOLhyphen"/>neth the flux. ¶ Medicina. Make drynke of the sede of whyte Popy &amp; Letuse and vse it. Also make oyle or oyntment of Henbane and anoynt thy temples with the same.</p>
+            <pb facs="tcp:11326:3"/>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The thyrde is a whytyssh yelow / almost as bryght as y<seg rend="sup">e</seg> horne of a lanterne. If this vryne be lytell in quantyte and ofte made / it betokeneth the seke man may not kepe his vryne. And this coloure is neuer knytte with substaunce. ¶ Medicina. Take Tryacle and boyle it in the ioyce of Molayne &amp; drynke it. Also Tryacle is good ther<g ref="char:EOLhyphen"/>fore. Also take vyneger and mustarde &amp; boyle them togyder / and do therto asmoche tryacle as wyll into the shell of a Hasell nutte / &amp; let the pacyent vse this medycyne whan the sekenesse taketh hym.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The fourthe colour is as a whyte russet. This vryne yf it be thycke in sustaūce with outen grauell in the botom / it betokeneth the Colica passio. ¶ Medicina. Take water cresses and grynde them small / and boyle them with wyne / and drynke it at euen and at morow. Also take Ho<g ref="char:EOLhyphen"/>ny and sethe it to it be harde / and do therto powder of Canell and powder of Gynger and vse it. Also make a playster of Dywte &amp; of wyne yf it be y<seg rend="sup">•</seg> Flow<g ref="char:EOLhyphen"/>res and lay it on the nauell.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The fyfte colour is as it were the brothe of Flesshe that is halfe sothen. This vryne yf it be lytell in quantyte / and fat as oyle / &amp; frothy aboue / it betokeneth wastynge. ¶ Medicina. Take the powder of Elenacampana &amp; of Turmen<g ref="char:EOLhyphen"/>tyl / and boyle them with claryfyed Hony / and make therof a confeccyon and vse it. Also for y<seg rend="sup">•</seg> heed take the ioyce of Myntes &amp; warme it &amp; anoynt thy heed therwith on morowe &amp; eue.</p>
+            <pb facs="tcp:11326:3"/>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The syxte coloure is as brothe of flesshe y<seg rend="sup">•</seg> is well sothen. This vryne yf it be thycke in substaunce / it betokeneth a cotydyan fe<g ref="char:EOLhyphen"/>uer y<seg rend="sup">•</seg> cometh of flewme. And all these syxe colours before sayde be tokens of bad degestyon. ¶ Medici<g ref="char:EOLhyphen"/>na. Take vyneger and mustarde and boyle them to<g ref="char:EOLunhyphen"/>gyder / and than take Tryacle asmoche as a bene or .ii. benes that is dry / than wasshe it with whyte wyne and do therto / and vse this whan y<seg rend="sup">•</seg> sekenesse taketh the. Also Dyacameron and Tryasandaly is good therfore at euen and at morow.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The .vii. colour is not fully so yelow as the yelow Apple. This vryne yf it be ouer all thynne in Haruest and in wynter / it be<g ref="char:EOLhyphen"/>keneth a quartayne. And yf it be thynne in castynge without sauour / it betokeneth a tercyan. ¶ Medici<g ref="char:EOLhyphen"/>na. Take Tryacle &amp; boyle it in the ioyce of Apleyne and drynke it. And Tryasandaly is good therfore.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The .viii. coloure is as an yelow Apple. This vryne with a thynne substaunce and a salte sauour / betokeneth a dowble tercy<g ref="char:EOLhyphen"/>an that cometh of malancoly. And yf it be a chyldes vryne / it betokeneth a cotydyan. ¶ Medicina. Take Fygges Lycoryse ysope Horehoue and Elenacam<g ref="char:EOLhyphen"/>pana / and boyle them al togyder in water tyll halfe be wasted / and vse it at morowe and at euen.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The .ix. colour is nygh as yelow as Sa<g ref="char:EOLhyphen"/>fron of y<seg rend="sup">e</seg> gardē. This vryne yf it be thynne in substaunce / and shadowed aboute ouer
+<pb facs="tcp:11326:4"/> all / more thycke aboue than bynethe / it betokeneth a tercyan. And this colour apere in Haruest or in wyn<g ref="char:EOLunhyphen"/>ter / it betokeneth a quartayne. ¶ Medicina. Take Polypodyon Anneys Aleos epraatyke and medle them with suger / and vse it in thy potage.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The .x. colour is as reed as ony Safron. This vryne yf it haue yelow frothe aboue / it betokeneth y<seg rend="sup">e</seg> Iaunesse. ¶ Medicina. Ta<g ref="char:EOLunhyphen"/>ke Myrabolanes of Inde &amp; Aleos epraatyke Sene Suger and Anneys / and make therof powder / and vse that at morowe and at euen.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The. xi colour is as whyte golde. If this vryne be thynne in substaūce / in a chylde it betokeneth a cotydyan / in a yonge man a tercyan / &amp; in an olde mā a dowble tercyan / and in a woman a quartayne. ¶ Medicina. Take powder of Gect and the sede of towne cresses and the sede of Brome / and vse it dayly in thy potage.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> The .xii. coloure is as reed golde. This co<g ref="char:EOLhyphen"/>lour yf it be thycke in substaunce and sha<g ref="char:EOLhyphen"/>dowynge aboue without ony wanheed / it betokeneth a lastynge quotydyan. ¶ Medicina. Ta<g ref="char:EOLhyphen"/>ke. z. z. viridis Sinamum Sene Anneys / &amp; medle them with Hony / and vse it erly and late. Also take the roote of Saturyon Mustarde sede Peper and Anneys and medle them togyder with Hony.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The .xiii. coloure is reed as a Rose. This vryne yf it be more thycke than thynne / it
+<pb facs="tcp:11326:4"/> betokeneth a brennynge feuer. ¶ Medicina. Lette hym blode vnder the ankle / or on y<seg rend="sup">•</seg> vayne of y<seg rend="sup">•</seg> arme / and take Aleos epraatyke. z. and boyle it in a pynt of whyte wyne / and drynke therof a sponefull at euen and in the mornynge.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The .xiiii. coloure is reed as brennynge cole. This vryne yf it be in the begynnynge thynne after reed / and thycke and coloured aboue somwhat as leed / and yf the vryne stynke not it betokeneth a Feuer of excesse of blode that is cal<g ref="char:EOLhyphen"/>led Synocha in fluctina / &amp; yf the vryne stynke than it is called Synocha putrida. In these feuers these be the tokens / a rody face / great thurst / dry tōge and sharpe / no rest at all / great ache in the heed / &amp; a great pulse withouten ordure / and euermore seke. ¶ Me<g ref="char:EOLhyphen"/>dicina. Take Scamony &amp; do it in a Peer or wardō rosted and ete it. Also make powder of Pyony ro<g ref="char:EOLhyphen"/>tes &amp; Persly rotes and Mystell of the Oke and vse it in thy potage.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The .xv. colour is a swartys she reed as it were the lyuer of a beest. This vryne with yelow colowred frothe aboue betokeneth y<seg rend="sup">e</seg> Iaunesse &amp; a postume of y<seg rend="sup">e</seg> lyuer. Also yf this vryne be drasty in the botome / it betokeneth the Flowres. ¶ Medicina. Take y<seg rend="sup">e</seg> bone of the Hartes horne and make it to powder &amp; drīke it. Also vse Dyacamerō.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The .xvi. colour is as blacke wyne or ro<g ref="char:EOLhyphen"/>ten blode. This vryne in a lastynge Feuer betokeneth dethe. If it be troubled / fatty / &amp;
+<pb facs="tcp:11326:5"/> flynkynge / as y<seg rend="sup">•</seg> vryne before that was reed as a cole / and this vryne appere in a hole body it betokeneth brustynge of a vayne in the raynes of skyppynge or lyftynge. ¶ Medicina. Take Osmunde Sauayne and Gromell and boyle them with whyte wyne and with claryfyed Hony / and vse it erly and late.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The .xvii. coloure is wanne as Leed. If this vryne be blody all aboute / so that no re<g ref="char:EOLunhyphen"/>sydens may do away the blode heed / it be<g ref="char:EOLhyphen"/>tokeneth dethe. ¶ Medicina. Auente the in the leg<g ref="char:EOLhyphen"/>ges / and vse the croppes of Sage. Also drynke Try asendaly.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The .xviii. coloure is Grene as wortes. This vryne yf it be lytell in quantyte / it be<g ref="char:EOLhyphen"/>tokeneth dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The .xix. coloure is blacke and shynynge as a Rauens fether. This vryne moche in quantyte and thynne in substaunce betoke<g ref="char:EOLunhyphen"/>neth delyuerynge of the Quartayne. ¶ Medicina. Take the ioyce of Tansy and of the reed Coole and boyle them with whyte wyne and Hony / and vse it erly add late.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ The .xx. colour is blacke as cole. This co<g ref="char:EOLunhyphen"/>lour man agewe / lytell fatty &amp; stynkynge / yf thou se thy face therin / thā it betokeneth dethe. ¶ Medicina. Drynke the ioyce of Celendyne and Molayne / or Tryacle with whyte wyne erly in the mornynge / and late in the euenynge.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:11326:5"/>
+            <head>¶ Here foloweth the colours of waters with cyrcles and medycynes to them bylongynge.</head>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure>
+               <seg rend="decorInit">S</seg>Vbrufus is lyke golde and syluer medled. This colour betokeneth a Feuer / and vn<g ref="char:EOLunhyphen"/>der the myddes a postume. ¶ Circu<g ref="char:EOLhyphen"/>lus. If ther be in the cyrcle small bel<g ref="char:EOLhyphen"/>les as it were of rayne water / it is a wynde in the heed rysynge out of stomake. ¶ Me<g ref="char:EOLhyphen"/>dicina. Take powder of Elenacampana and Tur<g ref="char:EOLhyphen"/>mentyll medled with Hony &amp; boyle them togyder &amp; make a confeccyon and vse it.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Rubeus as is y<seg rend="sup">e</seg> fyne golde. This colour betokeneth a Feuer throughe chafynge of the lyuer / a Feuer quartayne / &amp; a postume on the longes. ¶ Medicina Take Tryacle &amp; boyle it in y<seg rend="sup">•</seg> iyoce of Molayne. Also Tryasandaly is good therfore.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Subrubicundus is not so hye a coloure as the flammes of fyre. This colour beto<g ref="char:EOLhyphen"/>keneth as dothe the other aforesayd / that is to wēte Subrufus / but the euyll is more greuo<g ref="char:EOLhyphen"/>us in this thā that. ¶ Circulus ater betokeneth a po<g ref="char:EOLhyphen"/>stume in y<seg rend="sup">•</seg> bladder or in y<seg rend="sup">•</seg> lyuer. ¶ Medicina. This medicine is as the medycyne of Subrufus.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Certinus lyke a pome Orenge. This co<g ref="char:EOLhyphen"/>lour in a hole man betokeneth helthe / and
+<pb facs="tcp:11326:6"/> in a seke mā a shakyng in a Feuer tercyan / wastyng of the splenne and of the lyuer / &amp; Frenesy comynge. ¶ Medicina. Take Fygges Lycoryce Horehoue &amp; Elenacampana and boyle them in a galon of water vnto a potell and vse it.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Subrubeus lyke Safron of the garden This colour betokeneth a feuer of corrupt blode or a vayne broken in the backe or in the Flowres. ¶ Circulus. Fatnesse in the water be<g ref="char:EOLhyphen"/>tokeneth streytnesse in the brest and a Feuer. ¶ Me<g ref="char:EOLhyphen"/>dicina. Take water cresses and grynde them small and boyle them with wyne and drynke it.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Kyanoslyke Raspyse. This colour beto<g ref="char:EOLunhyphen"/>keneth a Goute / a crampe in the vayne of the herte / a postume in the stomake. ¶ Cir<g ref="char:EOLhyphen"/>culus blode in the water betokeneth brekynge of a vayne in the backe. Reed grauell betokeneth a spyce of the stone in y<seg rend="sup">e</seg> raynes. ¶ Medicina. Take y<seg rend="sup">e</seg> bonne of y<seg rend="sup">e</seg> Hartes horne &amp; make powder therof &amp; drīke it.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Rufuslyke pure golde. This colour be<g ref="char:EOLhyphen"/>tokeneth Einerawdes / dropsy / &amp; passynge of flowres. ¶ Medicina. Take Hony and sethe it tyll it be harde / and do therto powder of Se<g ref="char:EOLunhyphen"/>ne and gynger. Make a pl<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ter of Dewte and of wyne yf it be the flowres and lay it to the nauyll.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Lacteuslyke as whay. This coloure be<g ref="char:EOLhyphen"/>tokeneth dethe. And yf the pacyent slepe not thā it is a longe Feuer and a Franesy.
+<pb facs="tcp:11326:6"/> ¶ Medicina. Make a drynke of y<seg rend="sup">e</seg> whyte Popy and Letuse. Also make oyle or oyntment of Henbane &amp; anoynt the temples of the pacyent.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Kyrepos falow as the heer of a Camell. This coloure betokeneth Dropsy &amp; wynde vnder the syde / the stone / a postume on the longes / &amp; flewme. ¶ Circulus. If the cyrcle be grene it betokeneth a great ache in the heed and vnder the ryght syde. ¶ Medicina. Vse the croppe of Sage &amp; drynke Tryasandaly.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Plumbeus as Purple. This colour beto<g ref="char:EOLunhyphen"/>keneth the fallynge euyll / membres brokē / a feuer tercyan / dyffycultnes of water ma<g ref="char:EOLhyphen"/>kynge womās flowres. ¶ Circulus. If the cyrcle be reed it betokeneth ache in the foreheed / and yf it be blacke it betokeneth the falllynge euyl. ¶ Medicina. Take Scamony and put it in a Peer or wardon &amp; rost it. Also make powder of the rote of Pyony / the rote of Persly / and of the Mystell and drynke it.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Pallidus lyke flesshe halfe rotton. This colour betokeneth a brennynge vnder y<seg rend="sup">e</seg> ly<g ref="char:EOLhyphen"/>uer / a feuer / a feble heed / and a bad stomake wastynge of the longes. ¶ Medicina. Take Mira<g ref="char:EOLhyphen"/>bolanus iude. Aloe epraatyke and a dramme of Se<g ref="char:EOLunhyphen"/>ne Suger of yche an vnce sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Aloe make powder therof and vse it.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Viridis grene as Coole wortes. This co<g ref="char:EOLunhyphen"/>loure betokeneth wastynge of a naturall
+<pb facs="tcp:11326:7"/> hete / y<seg rend="sup">•</seg> heed ache / &amp; the morfewe. ¶ Medicina. Take Gynger and Canell and tempre them with Hony &amp; vse it erly and late. Also take the rote of Saturyon Mustarde sede &amp; Peper &amp; tempre them with Hony.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Subpallidus not so perfyte coloure as asshes. This colour betokeneth a postume on y<seg rend="sup">e</seg> ryght syde / tysyke harde to make wa<g ref="char:EOLhyphen"/>ter. ¶ Circulus. If this cyrcle be whyte it betokeneth peyne in the hynder parte of the heed. ¶ Medicina. Make powder of Geet / towne cresse sede / &amp; brome sede and vse it in thy potage.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Subcituus not so perfyte yelow as an Orenge. This colour betokeneth the same that dyd the reed / but not so sore. ¶ Circu<g ref="char:EOLhyphen"/>lus. If that there be in the cyrcle small motes as be in the sonne it betokeneth a rewme in the heed / def<g ref="char:EOLhyphen"/>nesse / pose / heuynes. ¶ Medicina. Take powder of Polypody Annes Aleos epaticum and myngle thē with Suger &amp; vse them in thy potage.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Inopos as blacke wyne and olde. This colour betokeneth moch trauayle ensuyng a vayne rotten in the raynes. ¶ Medicina. Take Osmunde Saueray and Gromell and boyle them in wyne and a lytell Hony / scomme it &amp; vse it.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Rubicūduslyke flammes of fyre. This colour betokeneth a feuer / a coughe / an op<g ref="char:EOLhyphen"/>pressyon of the herte / &amp; defaute of wynde. ¶ Medicina. Take Vyneger and Mustarde &amp; boyle
+<pb facs="tcp:11326:7"/> them togyder / and than take Tryacle asmoche as a nutte and put therto and ete it in thy sekenesse. And vse Dyacameron and Tryasandaly.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Subuiridis a derkysshe grene. This co<g ref="char:EOLhyphen"/>lour betokeneth as dothe the other grene / but it is not so sore as it. ¶ Circulus with grauell betokeneth ache in the backe nyghe vnto the fundyment. ¶ Medicina. Let hym blode vnder the ancle or in the vayne of the arme / and take a pynte of whyte wyne and boyle therin a dramme of Aloe epraatyke &amp; drynke a spone full erly and late.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Niger as blacke as a blacke horne. This colour betokeneth a Feuer quartayne / the blacke Iaunesse / dethe in short tyme. ¶ Cir<g ref="char:EOLunhyphen"/>culus. water full of small tretes betokeneth dry cō<g ref="char:EOLhyphen"/>plexyon / a postume in y<seg rend="sup">e</seg> ryght syde / scales as it were of fysshes / stoppynge of the flowres and scabbe in y<seg rend="sup">•</seg> Matryce. ¶ Medicina. Drynke y<seg rend="sup">•</seg> ioyce of Celōdyne Molayne and tryacle with whyte wyne erly &amp; late.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Albuslyke as clere water / and it betoke<g ref="char:EOLhyphen"/>neth wastynge of the splenne / the dropsy / woodnes / pyssynge agaynst wyll / chafyng of the lyuer / emerawdes / &amp; stoppyng of the flowres. ¶ Medicina. Make a drynke of Gromell Saxfrage Perytory Sage Bukull &amp; hempe and sethe them in stale ale and drynke it and vse the powder of theym in thy potage.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Glaucus a whytysshe yelow as the horne
+<pb facs="tcp:11326:8"/> of a lanterne. This colour betokeneth indegestyon / a postume in y<seg rend="sup">e</seg> ryght syde / ofttymes a feuer / tysyke / and a bladder in the longes. ¶ Medicina. Take the ioyce of Tansay and the reed cole worte and boyle them with wyne &amp; with a lytell Hony &amp; vse it.</p>
+            <p>
+               <seg rend="decorInit">W</seg>Han the vryne cometh that hathe great contentes / as it were quetor after the castynge of the vryne / yf y<seg rend="sup">e</seg> vryne stynke more thā it shulde do of kynde / it betokeneth peyne in y<seg rend="sup">•</seg> raynes and in the splenne. And yf this Quet or stynke not it betoke<g ref="char:EOLhyphen"/>neth peyne on the lyuer &amp; badde degestyon. ¶ Blode and it be clere and pure it betokeneth brekynge of a veyne in y<seg rend="sup">e</seg> lyuer / yf it be lytell with a stronge sauour and ly in gobettes in y<seg rend="sup">e</seg> botome it cometh fro y<seg rend="sup">e</seg> blad<g ref="char:EOLhyphen"/>der / yf it be spotted as blode and reed than y<seg rend="sup">•</seg> peyne is in the raynes and in the share / yf it be clere &amp; black ysshe thā the peyne is in the backe &amp; in the share and aboute the bladder. ¶ Rawe humours is a contente of the vryne whiche thou shall knowe thus. If the vryne after his castynge flete full of framell motes / the whiche come of the resydence of the botom / or in in the mydde regyon / than in the vryne be rawe hu<g ref="char:EOLhyphen"/>mours. And yf the rawe humours be aboue on the water it betokeneth a strayte heed in the brest &amp; short of brethe &amp; nyppynge of the splen̄e. And yf it appere in the myddes it betokeneth gryndynge in the body and clensyng in the guttes &amp; wynde in the stomake. All this cometh of excesse of meet and drynke. And yf they be in the botome the peyne is in the reynes / &amp;
+<pb facs="tcp:11326:8"/> somtyme it is in y<seg rend="sup">•</seg> codde. ¶ Fat heed without Axcys betokeneth wastynge of grece aboute the fundimēt. If it be with an Axcys it betokeneth wastynge of y<seg rend="sup">•</seg> body. In the fyrst spyse of the Etyke the fat heed ho<g ref="char:EOLunhyphen"/>ueth aboue the partyes as it were of fat brothe. The secōde spyse that hylleth all the vryne aboue is lyke the webbe of Erren. The thyrde spyce the vryne is thycke ouer all fatte as oyle / &amp; yf it be cast on a mar<g ref="char:EOLhyphen"/>ble stone it sheweth as oyle / and this spyse is vncu<g ref="char:EOLhyphen"/>rable. ¶ Vermyn cōtētes they he lyke to bryne / som<g ref="char:EOLunhyphen"/>tyme rounde as scales of a fysshe. If they appere wtthin an Axcys they betoken the fyrst spyse of the Etyke they do appere lyke vnto bryne that hathe ly<g ref="char:EOLhyphen"/>tell of the flowre hith hym. In the thyrde spyce of y<seg rend="sup">e</seg> Etyke there do appere contentes lyke these .ii. fyrst / but they be greater &amp; than they be all whyte. ¶ Gra<g ref="char:EOLhyphen"/>uell reeed betokeneth the stone in the raynes. If the Grauell be whyte or blacke / and harde and great it betokeneth the stone in the bladder. And yf they be reed and nesshe it betokeneth brent blode in y<seg rend="sup">e</seg> lyuer. ¶ Motes that be whyte and small and rounde beto<g ref="char:EOLhyphen"/>keneth the Goute bothe in the man and woman. If they appere in the botome it betokeneth the rewma<g ref="char:EOLunhyphen"/>tyke Goute bothe in the stomake and in y<seg rend="sup">e</seg> brest. If they do gader than in a rounde gobet and doly so thycke on y<seg rend="sup">e</seg> botom vnder the cyrcle / yf they be reed<g ref="char:EOLhyphen"/>ysshe and roūde it betokeneth a man chylde. If they be whyte or blo and thynne as scales it betokeneth a woman chylde. ¶ Heeres that be longe and small yf they shewe with an Axcys it betokeneth wastyng of the body. And yf with the Axys be a Flyx and these heeres appere it betokeneth dethe. ¶ Spermatyue
+<pb facs="tcp:11326:9"/> resolucyons yf they appere fletynke aboute in the vryne / and the vryne rawe in coloure it betokeneth pyssynge of kynde without lykynge. If the vryne be hye of colour it betokeneth that it was made post suppositum. ¶ Asshes yf they appere in the vryne / and the vryne be whyte of colour / with resolucyons blacke and blo beynge in the botom it betokeneth y<seg rend="sup">•</seg> Emerawdes. Also yf the contentes be blacke or blo or Purpur with a lowe coloure it betokeneth stop<g ref="char:EOLhyphen"/>pynge of the flowres. ¶ The laste content is called Ipostacis. It standeth in the botom brode byneth &amp; sharpe vpwarde. If this cōtent be whyte &amp; brode in the botom and sharpe vpwarde without brekynge &amp; longe lastynge it betokeneth that the seke is worse than he was. If it be broken or haue in the myddes orels aboute in the partyes it betokeneth that y<seg rend="sup">•</seg> seke man is colde in the lyuer and it may not defy. And it be in the myddes / than it is called Neptilis and it betokeneth badde degestyon and lengthe of seke<g ref="char:EOLhyphen"/>nesse. And it be blacke it betokeneth destruccyon of kynde and dethe.</p>
+            <p>
+               <seg rend="decorInit">N</seg>Now haue I shewed you the substaūce of vryns / y<seg rend="sup">•</seg> colours / the regyons / &amp; the contentes bylōgyng to vryns. And now wyll I shewe the the complec<g ref="char:EOLhyphen"/>cyons. If the vryne be thycke and reed / than it betokeneth blode. And yf it be reed and thynne than it betokeneth colour. And it be thycke &amp; whyte it betokeneth flewme. And it be whyte and
+<pb facs="tcp:11326:9"/> thynne than it betokeneth malancoly. And yf thou knowe the cōpleccyons by the cost of the vryne / loke yf it be swete / thā it betokeneth blode. If it be sowre it betokeneth coloure. And it be whyte without sa<g ref="char:EOLhyphen"/>uour as water / it betokeneth flewme. And it be salt it betokeneth malancoly.</p>
+         </div>
+         <div type="part">
+            <head>¶ How the compleccyons be gendred.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F thou wyl knowe where these com<g ref="char:EOLunhyphen"/>pleccyōs be gendred in a mānes bo<g ref="char:EOLhyphen"/>dy / I say that coloure is gendred in the lyuer / and his dwellynge is in y<seg rend="sup">e</seg> cofer of the gall. Blode is gēdred in the lyuer / and his dwellynge is in y<seg rend="sup">e</seg> veynes. Flewme that is naturall is engendred in y<seg rend="sup">e</seg> lyuer / and it hathe no proper dwellynge / &amp; therfore he is medled with the blode to make the blode ren<g ref="char:EOLhyphen"/>nynge. Malancoly is gendred in the lyuer / and his propre dwellynge place is in the splenne. Malancoly and flewme kepe the botom of the vrynall.</p>
+         </div>
+         <div type="part">
+            <head>¶ How thou shall dyscerne mannes vryne fro wo<g ref="char:EOLhyphen"/>mans vryne / and beestes vryne fro the vryne of man and woman.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hus I wyll that thou vnderstande that yf there be ony drobled in man<g ref="char:EOLhyphen"/>nes vryne it sheweth in the myddes of the vryne / and in the womannes vryne it doth not so. Another is this the frothe after the castynge of mā<g ref="char:EOLhyphen"/>nes
+<pb facs="tcp:11326:10"/> vryne it shalbe longe / and of a womans after y<seg rend="sup">•</seg> castynge it shalbe rounde. These .ii. last tokens Auy<g ref="char:EOLunhyphen"/>cence saythe. ¶ Now beestes water fro mannes wa<g ref="char:EOLhyphen"/>ter. Beestes water is the sadder and more supple of compleccyon. Also the beestes water swelleth more than the mānes. Another medle the vryne of a beest with a mannes vryne / and they shall parte asondre. And it be a Cowe y<seg rend="sup">•</seg> is with calfe / it is good to know fro a woman that is with chylde / for the drestes or y<seg rend="sup">•</seg> contentes of the Cowes vryne is moche greater thā the vryne of a woman / in asmoche as the woman is lesse and fayrer of compleccyon than the Cowe is. ¶ If thou wyll knowe the fyrst water &amp; the seconde / the godheed sheweth whyther he be in great etynge and drynkynge / and than the fyrst water is greater in quantyte or lesse stynkynge than y<seg rend="sup">•</seg> seconde / orels yf he lyue mesurably / thā the fyrst shalbe more thyck than the other. ¶ Now haue I tolde the of the sub<g ref="char:EOLhyphen"/>staunce with the colours of the vryns and complec<g ref="char:EOLhyphen"/>cyons / and to knowe mannes vryne and womans with chyldes fro the vryne of beestes.</p>
+         </div>
+         <div type="part">
+            <head>¶ Here foloweth the veray knowlege of all vryns.</head>
+            <p>
+               <seg rend="decorInit">M</seg>En and women fyrst I wyll be<g ref="char:EOLhyphen"/>gynne at y<seg rend="sup">e</seg> vryne most for youre helpe and helthe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne fat and trou<g ref="char:EOLhyphen"/>bled betokeneth a bren<g ref="char:EOLhyphen"/>nynge Feuer y<seg rend="sup">•</seg> cometh of colour.</p>
+            <pb facs="tcp:11326:10"/>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne y<seg rend="sup">•</seg> is reed and thycke ouer all with a blacke cyrcle / betokeneth sekenes ouer all / and the pacyent swete not / it is dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that is whyte and thynne &amp; lytell dunne betokeneth colde in the body.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne clere with a b<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ke cyrcle betoke<g ref="char:EOLhyphen"/>neth that the seke is pety seke.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne thynne and somwhat reed &amp; clere with a bryght cyrcle betokeneth a badde sto<g ref="char:EOLunhyphen"/>make.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne thynne &amp; somwhat grene aboue betokeneth colde cōpleccyon. And it shewe blewe aboue in the castynge it betokeneth petyseke.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne thynne &amp; somwhat blacke aboue in the castynge betokeneth great losse of na<g ref="char:EOLunhyphen"/>ture.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne thycke &amp; troubled as Horse pysse betokeneth heed ache.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne fat in the botom / whyte in y<seg rend="sup">•</seg> myd<g ref="char:EOLunhyphen"/>des / and Reed aboue / betokeneth a Feuer quartayne.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that is fat lyke flesshe and hathe drastes in the botom as shadowynge / it be<g ref="char:EOLhyphen"/>tokeneth
+<pb facs="tcp:11326:11"/> the colde Dropsy. Also yf it be as whay a<g ref="char:EOLhyphen"/>boue / clere in the myddes / and shadowed bynethe / it betokeneth a hote Dropsy.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that hathe blacke drestes in the bo<g ref="char:EOLunhyphen"/>tom lyke gobettes of cooles / yf it be parted asonder and not great / it betokeneth wor<g ref="char:EOLhyphen"/>mes in the body.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that hathe blacke contentes smal as motes in the myddes of the water / it be<g ref="char:EOLunhyphen"/>tokeneth a postume vnder the syde.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that hathe in the botom as gohet<g ref="char:EOLunhyphen"/>tes of flesshe / or small shyues / or rasyng of Parchement / it betokeneth stoppynge of y<seg rend="sup">e</seg> raynes and the pypes Epatyke.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that is blacke &amp; grene with longe whyte contentes / lyke the kynde of man / it betokeneth the palsy. And it be frothy and lyke leed in the myddes / it is the palsy.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that hathe graynes vnder the cyr<g ref="char:EOLhyphen"/>cle / it betokeneth a stomake full of wormes Also brennynge of the harte.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that is fowle aboue betokeneth hete in the harte / in the longes / and in the splenne.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that hathe cōtentes with a blacke
+<pb facs="tcp:11326:11"/> in the botom betokeneth costyfnesse.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that is longe lastynge betokeneth botynge in the body and great rewme.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne thycke and lytell in quātyte and hye of colour betokeneth great brennynge in the body.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that is frothy / clere / &amp; lytell reed / betokeneth peyne vnder the ryght syde.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that is frothy betokeneth wynde and peyne vnder the lefte syde.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne as reed as coole betokeneth a po<g ref="char:EOLhyphen"/>stume on the lyuer.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne reed as brent golde yf it be Edro<g ref="char:EOLhyphen"/>pyke it betokeneth dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne of woman that is with chylde / y<seg rend="sup">•</seg> water shall haue some clere strykes / y<seg rend="sup">•</seg> most parte shalbe troubled / and the troublenesse shalbe reeddysshe / in the maner of a Tawny / &amp; this token shall neuer fayle. As soone as the chylde hath lyfe / and it be a gyrle / the trowblenesse shall drawe downewarde. And it be a boye / the troublenes shall houe aboue.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne of a woman whyte and heuy and stynkynge betokeneth peyne in the raynes / 
+<pb facs="tcp:11326:12"/> and peyne of the mother / and sekenesse of colde.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne of woman coloured as bryghte golde betokeneth talent or desyrous of the company of man.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne of womā that fleteth fatte abou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> betokeneth peyne in the raynes.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne of woman with blacke contentes in the botom betokeneth fallynge of the flowres.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne of woman with whyte conten<g ref="char:EOLhyphen"/>tee in the botom betokeneth moche heed of flowres.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne of woman coloured as is whyte leed / yf she be with chylde / it betokeneth y<seg rend="sup">•</seg> y<seg rend="sup">•</seg> chylde is deed within her. And she be not with chylde &amp; the water stynke / it betokeneth that y<seg rend="sup">e</seg> mother is rotten.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne of woman coloured as Lynsede and she haue the flyx / than it betokeneth dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne of woman reed as golde / with a watry cyrcle aboue betokeneth that she is with chylde. And take hede yf thou se thy face in a womans water / and she be without a feuer it betokeneth that she is with chylde. And thou se
+<pb facs="tcp:11326:12"/> thy face in the vryne of a hote feuer / it betokeneth d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>he. And thou se thy face that hathe none Axcys / it betokeneth longer sekenesse.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne of a woman the fyrst that she ma<g ref="char:EOLunhyphen"/>keth after that she hath medled with a mā / yf y<seg rend="sup">•</seg> water he clere she is with chylde. And it be thycke she is not with chylde. Another. Gyue her a heed of Garlyke whan she gothe to bedde / and after her fyrst slepe and she fele a sauor of the Gar<g ref="char:EOLhyphen"/>lyke in her mouthe she is with no chylde / &amp; she fele none she is with chylde. Another. If her pulse bete fast / and she haue no Axcys / it betokeneth that she is with chylde. And it be the pulse of the lefte hande it betokeneth a mā chylde. And y<seg rend="sup">•</seg> contrary of a mayde chylde. And the chylde be deed within the woman these be y<seg rend="sup">•</seg> tokens / her brethe stynketh / she hath great peyne aboute her nauell / she may not go well / &amp; she may not lōge sytte styll / and her eyes be very small. And a woman wyll be with chylde / let her take the ballockes of a Barowe or of a Boore and dry them well and make powder therof &amp; let her drynke ther<g ref="char:EOLhyphen"/>of with wyne after the clensynge of her flowres / &amp; than let her haue ado with a man fresshly &amp; she shall cōceyue And Galyen saythe that women that haue strayte portes of kynde and narowe mothers shulde not haue ado with a man lest they conceyue and dy. Therfore bycause they wyll not abstayne themselfe fro men / therfore let them do thus. If a womā wyll not conceyue / let her bere nexte her bare flesshe the mother of a Goote that neuer hadde Kydde. Also a sto<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t is called Gee / yf a woman bere it on her
+<pb facs="tcp:11326:13"/> orete it in powder / it letteth to cōceyue. And also a Mole warpe / otherwyse called a Molle / take hym &amp; cutte awaye his ballockes and let hym go alyue / and let her bere them in her bosom. Also yf the woman be hurte in chyldynge / &amp; after that for drede of dethe wyll not conceyue / let her put in the skynne that co<g ref="char:EOLhyphen"/>meth out with y<seg rend="sup">e</seg> chylde as many cornes of Spurge sede or of Barly cornes as she wyll yeres abyde ba<g ref="char:EOLhyphen"/>rayne without chylde. And she wyll abyde so euer / let her put in her hande full.</p>
+         </div>
+         <div type="part">
+            <head>¶ How the chylde encreseth in y<seg rend="sup">e</seg> mothers wombe.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Oncepcyō is after this maner. The fyrste moneth is made purynge of the womans blode. The .ii. moneth is made expressyon of the blode &amp; of the chyldes body. The thyrde mo<g ref="char:EOLhyphen"/>neth the chylde hathe eeres and nay<g ref="char:EOLunhyphen"/>les. The .iiii. moneth the chylde sty<g ref="char:EOLhyphen"/>reth / and that maketh y<seg rend="sup">e</seg> mother to perbrake &amp; spewe. The .v. moneth the chylde taketh lykenesse of y<seg rend="sup">•</seg> fa<g ref="char:EOLhyphen"/>ther and mother. The .vi. moneth it taketh strength of senowes. The .vii. moneth the bones and the se<g ref="char:EOLhyphen"/>nowes be made harde. The .viii. moneth the chylde is fulfylled with all maner proprytes / and all his be<g ref="char:EOLhyphen"/>nefytes. The .ix. moneth it cometh fro derknesse in<g ref="char:EOLhyphen"/>to lyght.</p>
+         </div>
+         <div type="part">
+            <head>¶ Here foloweth all the vryns that beto<g ref="char:EOLunhyphen"/>ken dethe / as well y<seg rend="sup">e</seg> vryne of man as of woman.</head>
+            <pb facs="tcp:11326:13"/>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure>
+               <seg rend="decorInit">I</seg>N a hote Axcys one parte reed / another blacke / ano<g ref="char:EOLhyphen"/>ther grene / &amp; another blewe betokeneth dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne in a hoote Axcys / blacke and lytell in quanty te / fatty and stynkynge / betokeneth dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne ouer all coloured as leed betoke<g ref="char:EOLhyphen"/>neth a prolongynge of dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne derke aboue and clere bynethe be<g ref="char:EOLunhyphen"/>tokeneth dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that shyneth rawe &amp; ryght bryght yf the Syken in the botom shyne not it be<g ref="char:EOLunhyphen"/>tokeneth dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne thynne in substaūce / hauynge fle<g ref="char:EOLunhyphen"/>tynge aboue as it were a derke sky betoke<g ref="char:EOLhyphen"/>neth dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne dresty / stynkynge / and derke with a blacke sky within hym betokeneth a pro<g ref="char:EOLhyphen"/>longynge of dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that is of the colour of water / yf it haue a derke sky in an Axcys / it betoke<g ref="char:EOLhyphen"/>neth dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that hathe drestes in the botom
+<pb facs="tcp:11326:14"/> medled with blode it betokeneth dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne blacke and thynne / yf y<seg rend="sup">e</seg> seke lothe whan he gothe to the pryuy / &amp; whan he spe<g ref="char:EOLhyphen"/>keth ouertwharte or that he vnderstādeth not aryght / &amp; these sekenesses go not fro hym / they betoken dethe.</p>
+         </div>
+         <div type="part">
+            <head>¶ The thyrde knowlege of vryns / the whiche is called the regyons.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hou shall vnderstande that in the vryne whan it is in the vrynall there be thre regyons / the fyrst / the secōde / and the thyrde. The thyrde begyn<g ref="char:EOLhyphen"/>neth at the botom of the vrynall and lasteth to the thycknesse of two fyn<g ref="char:EOLunhyphen"/>gers brede vpwarde. The seconde begynneth there<g ref="char:EOLunhyphen"/>as the thyrde dothe ende / and lasteth vpwarde to the cyrcle / and the fyrst fro that all vpwarde / and in eue<g ref="char:EOLhyphen"/>ry of these regyons be dyuers contentes.</p>
+         </div>
+         <div type="part">
+            <head>¶ Of the contentes of vryns.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Ow wyll I shewe the foure contentes y<seg rend="sup">•</seg> bylonge to vryns &amp; fyrst I wyl begyn̄e at froth. Froth that dwelleth and cle<g ref="char:EOLhyphen"/>cleueth to y<seg rend="sup">•</seg> cyrcle betokeneth indegestyon and wynde in y<seg rend="sup">•</seg> stomake and in the bowelles
+<pb facs="tcp:11326:14"/> and in y<seg rend="sup">•</seg> heed. And yf aboue that frothe dwell great bubbles / it betokeneth great peyne in the Reynes. Froth also that dwelleth great betokeneth indege<g ref="char:EOLhyphen"/>styon and wynde. And yf the frothe dwell small it betokeneth brennynge in the stomake &amp; brent blode in the lyuer. If the frothe be full of graynes it beto<g ref="char:EOLhyphen"/>keneth rewme in the heed and in the brest and in the blacke iaunesse. And yf it be grene it betokeneth the iaunesse that cometh of brent blode in the lyuer / as of enuy and wrath / and bothe be in the spyse of the Iaunesse. And also of the blacke Iaunesse is swel<g ref="char:EOLhyphen"/>lynge of y<seg rend="sup">•</seg> gall. And it be a swartysshe yelow / it co<g ref="char:EOLhyphen"/>meth of great hete of the blode of the lyuer. A small skye aperynge and shadowynge the vryne aboue / yf the vryne be a party blewe / it betokeneth peyne at y<seg rend="sup">•</seg> harte and shorteth of breth and wynde that cometh of the longes. And yf the vryne be not blewe &amp; suche a skye shadowe the vryne aboue / it betokeneth cha<g ref="char:EOLhyphen"/>fynge of the lyuer / &amp; specyally yf y<seg rend="sup">e</seg> frothe be yelow.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ A cyrcle thycke and lytell colour betoke<g ref="char:EOLhyphen"/>neth peyne in the braynes.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ A cyrcle thycke and lytel and coloured as purple betokeneth peyne in the forheed.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ A cyrcle blacke or whyte thynne and lytel coloured betokeneth peyne in the lefte syde of the heed.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ A cyrcle thynne &amp; hye of coloure / as reed or yelow betokeneth peyne in y<seg rend="sup">•</seg> ryght syde
+<pb facs="tcp:11326:15"/> of the heed.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ A cyrcle coloured as blode betokeneth Epulence.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ A cyrcle grene betokeneth wauerynge in the heed and brennynge in y<seg rend="sup">e</seg> stomake. And it appere in an Axcys that is hote / it beto<g ref="char:EOLhyphen"/>keneth the Frenesy that cometh of colde.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ A cyrcle y<seg rend="sup">•</seg> is coloured as a bryght blewe / yf it tremble / it betokeneth dethe / &amp; namely in a hote Axcys.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ A cyrcle thycke and blacke ouer all beto<g ref="char:EOLhyphen"/>keneth dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ A cyrcle that quaketh betokeneth peyne fro y<seg rend="sup">e</seg> necke downe to y<seg rend="sup">e</seg> rydge bones ende.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Graynes that dwell in the cyrcle after ca<g ref="char:EOLhyphen"/>stynge of the vryne gone downe / and after ryse vp agayne to the cyrcle they betoken rewme in y<seg rend="sup">e</seg> heed / and yf they gone downe &amp; tourne not agayne to the cyrcle / than they betoken rewme in the brest / in the longes / and in the splenne. And yf thou se two small graynes in the seconde regyon or mo or lesse knytte to a small sky / than it betokeneth peyne in the brest of rewme &amp; wycked stomake / bad lyuer and bad longes.</p>
+         </div>
+         <div type="part">
+            <head>¶ How thou shall knowe the pulse.</head>
+            <pb facs="tcp:11326:15"/>
+            <p>
+               <seg rend="decorInit">W</seg>Han thou towchest the pulse with thy foure fyngers / yf the pulse vn<g ref="char:EOLhyphen"/>der thy lytell fynger be fell &amp; smy<g ref="char:EOLhyphen"/>tynge and vnder the leche fynger it be stronger and vnder the mydle fynger more stronge and so goyng vpwarde / it betokeneth good / &amp; it be the contrary it is euyll and betokeneth dethe. As thus. If the pulse be feble vnder the fyrste fynger / &amp; vnder the seconde more feble / &amp; so goynge vpwarde it betokeneth dethe. Also yf the pulse be felte vnder foure fyngers to he come to his stroke / and he fayle in the .xi. stroke it is good. And it be the contrary / it betokeneth dethe. Also yf the faute come of the .xi. &amp; be feble / and in the .x. more feble / in the .ix. and so go<g ref="char:EOLhyphen"/>ynge downewarde / this betokeneth dethe.</p>
+         </div>
+         <div type="part">
+            <head>¶ De gradibus siccitatis et calidi<g ref="char:EOLhyphen"/>tatis sciendum est.</head>
+            <p>
+               <seg rend="decorInit">P</seg>Rimus gradus siccitatis &amp; caliditatis est cum aliqua res habeat vnā portio<g ref="char:EOLhyphen"/>nem frigiditatis et duas caliditatis / tunc res illa dicitur esse calida in p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>mo gradu. Secundus gradus est quā<g ref="char:EOLunhyphen"/>do habeat vnam portionem frigidita<g ref="char:EOLunhyphen"/>tis et quattuor caliditatis / tunc dicitur esse calida in secundo gradu. Tertius gradus est quando habeat vnam partem frigiditatis et octo caliditatis / tunc dicitur esse calida in tertio gradu. Quartus gradus est quando habeat vnam portionem frigiditatis et
+<pb facs="tcp:11326:16"/> sexdecem caliditatis / tūc dicitur esse calida in quar<g ref="char:EOLhyphen"/>to gradu.</p>
+            <p>¶ De etate lune quando est sicca vel calida.</p>
+            <p>¶ Prima etas lune calida est et hunuda. Secunda calida et sicca. Tertia frigida et humida. Quarta frigida et sicca.</p>
+            <p>
+               <table>
+                  <head>¶ Quattuor elementa.</head>
+                  <row>
+                     <cell>¶ Ignis est calid{us} et siccus.</cell>
+                     <cell>Estas.</cell>
+                     <cell>Colera.</cell>
+                  </row>
+                  <row>
+                     <cell>¶ Aer calidus et humidus.</cell>
+                     <cell>Ver.</cell>
+                     <cell>Sanguis.</cell>
+                  </row>
+                  <row>
+                     <cell>¶ Aqua frigida et humida.</cell>
+                     <cell>yems.</cell>
+                     <cell>Fleuma.</cell>
+                  </row>
+                  <row>
+                     <cell>¶ Terra frigida &amp; sicca.</cell>
+                     <cell>Autūpn{us}.</cell>
+                     <cell>Malācolea.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>¶ Sanguineus multum appetit et sic potest.</p>
+            <p>¶ Largus / amans hillaris / ridens / rubi{que} coloris / Cantans / carnosus / satis audax / valde benignus.</p>
+            <p>¶ Fleumaticus parū appetit et multū potest.</p>
+            <p>¶ Hic sompnolentus / piger in spiramme vultus Hebes hinc sensus / pinguis facie / color albus.</p>
+            <p>¶ Colericus multum appetit et parum potest.</p>
+            <p>¶ Hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sutus / fallax / trascens / prodigus / audax / Astutus / gracilis / succus / crocei{que} coloris.</p>
+            <p>¶ Malancoleus parū appetit &amp; parū potest.</p>
+            <p>¶ Inuidus / et tristis / cupidus / dextre{que} tenacis / Non expers fraudis / tunidus / lutci{que} coloris.</p>
+         </div>
+         <div type="part">
+            <head>¶ For the Dropsy be it hote or be it colde to hele mā or woman that euer shalbe heled with medycyne.</head>
+            <pb facs="tcp:11326:16"/>
+            <p>
+               <seg rend="decorInit">M</seg>En or women yf euer you wyll be holpen of the Dropsy hote or colde take wormwode Petymo<g ref="char:EOLunhyphen"/>rell Fetherfoy Spurge &amp; wal<g ref="char:EOLhyphen"/>worte / of the roote of eche halfe a pounde. Fenell Persly I sope Sage Smalage Anneys Myn<g ref="char:EOLunhyphen"/>tes well Cresses Horehoūde Endyue Lyuerworte the mydle barke of an Eldre tree of yche a quartron and wasshe clene the rootes and the herbes &amp; powne them well in a morter / and do it in an erthen potte that was neuer occupyed / and do therto .ii. galōs of good whyte wyne or good worte y<seg rend="sup">t</seg> is not tourned / &amp; sethe it to it come to a galon / thā take it downe and strayne it through a heeren syuc into a fayre vessell / than wasshe the sayde erthen potte fayre and clene with fayre water / &amp; whan thou hase done put in the lycour agayne into the same potte &amp; couer it fayre &amp; gyue of it to y<seg rend="sup">e</seg> pacyent an halfe pynte full at a tyme and let hym vse it fyrst and last / at euen hote / and at morow colde. And lette hym ete no meet .iii. dayes but breed and potage made of wellores &amp; of whyte wyne and otemele. And let hym take .ii.li. of fayre Sage &amp; wasshe it clene &amp; do it in a coffyn of doughe that is made with whete and do it in an Ouen and bake it as breed is baken / &amp; than powne thy coffyn in a brasen morter &amp; do it in a fayre cloute / and putte in the sayde cloute with the sayd confeccyon a weyght the whiche shal peyse .iii. poundes / &amp; hange it in a ga<g ref="char:EOLunhyphen"/>lon pot of stone / and fyl it ful of good whyte wyne / or of stale ale / &amp; couer thy potte that the ayer go not out / &amp; let y<seg rend="sup">•</seg> seke drynke no drynke but that ale whyle
+<pb facs="tcp:11326:17"/> it lasteth. And whan that is gone make redy more of the same to the tyme he be hole / and that he drynke none other drynke / but that is ordeyned bothe fyrste and last. And after that thre dayes be gone of etyng of his potage / let hym ete ony conuenyent meet that he desyreth / but nothynge of drynkes / but as before is sayde. And by the grace of god he shalbe hole in a moneth or lesse. Also let hym blode in .i. vayne or .ii. for this is proued trewe.</p>
+         </div>
+         <div type="part">
+            <head>¶ The mater folowynge treateth of humours / and fyrst of the auoydynge of humours.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Euerally to treate of euery humour the humours that betoken moche ha<g ref="char:EOLunhyphen"/>oundaūce in y<seg rend="sup">e</seg> brest in the longes or mony other place of a mā they may be defyed with this degestyō. Make a receyte of Calamynt Pulyell roy<g ref="char:EOLhyphen"/>all / the roote of a Lyly Gladen Brother worte May<g ref="char:EOLunhyphen"/>den heere .i. li. Lycoryce .ii. drammes Fenell euen a dramme / flowres of vyolettes euē .ii. drammes Su<g ref="char:EOLunhyphen"/>ger .ii. li. and make a syrop.</p>
+            <p>¶ The hote humoures that abyde within the body must <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e defyed with this degestyon. Take Mayden heere Anneys Endyue Isope Freys Hartes tonge Ceterat Polytrycum / a braken that groweth in the marres amonge stones Adeantes an hande ful and an halfe / Coll seedes euen a dramme / Cauda penu<g ref="char:EOLhyphen"/>des with rose sede .ii. drammes / frim gū ara flowres of Borage .iiii. drammes Gynger .ii. li. and make a syrop.</p>
+            <pb facs="tcp:11326:17"/>
+            <p> ¶ If humours of colour be in the stomake or in the lyuer / or in ony other lyke it shalbe defyed by this de<g ref="char:EOLunhyphen"/>gestyon. Take Hartes tonge Endyue Sowthystell Cycore ryght lyke Daundelyon nyghe an hande ful Gladen Mayden heere Brakes of the fe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne .M.v. Vyolet .iiii. drammes Prunes / Roose sede / Letuse sede / Sandalis. M .v. Clene sot a dramme / sede of Barbarinis a dramme / Borage leues .ii. drammes / sowre wyne .i.li. Suger .ii.li. &amp; make therof a syrop. ¶ Now yf colde humours be habundaūte in y<seg rend="sup">•</seg> same mēbres they may be defyed by this degestyon. Take Ambrose and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame Sage .iii. hande full Camamyl Hony sokles femelles Reoyt Boynworte Spere<g ref="char:EOLhyphen"/>worte Fyue leued gras Hartlyuer Penyworte that groweth in the marres Colombyne Gladen / y<seg rend="sup">•</seg> great Dayse and the lytell Dayse Sowthystell Mayden heere Horehoūde Bugle rootes. M.ii. Hony &amp; Su<g ref="char:EOLhyphen"/>ger .ii.li. sowre wyne and make a syrop.</p>
+            <p>¶ If malancoly humoures be habundaunte in the splenne or in other places or membres lyke / they shal<g ref="char:EOLunhyphen"/>be defyed by this degestyon. They shalbe defyed as tolde humours be in the lyuer / but there shalbe put therto these herbes Hartestonge and of the mydle barke of y<seg rend="sup">e</seg> date <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ree &amp; of y<seg rend="sup">e</seg> mydle barke of Asshe tre. ¶ Now yf humours be brent and dryed in y<seg rend="sup">e</seg> sylenne or mylte / than shall it be defyed with this degestyon. Take the ioyce of Fumytory and Borage .ii.li. Sca<g ref="char:EOLunhyphen"/>byous Affodyll Fumyter dockes that growe in the Maryce Bugle Stychworte Cycore lyke Daunde<g ref="char:EOLhyphen"/>lyon Hartes tonge Endyue Sowthystell .M.i. Si<g ref="char:EOLunhyphen"/>cados Rose sede Endyue sede &amp; Letuse sede A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e a dramme Vyolet flowres Borage .iiii. drāmes Su<g ref="char:EOLhyphen"/>ger.
+<pb facs="tcp:11326:18"/> ii. li. sowre wyne and make a syrop.</p>
+            <p>¶ Colde humours in y<seg rend="sup">•</seg> reynes &amp; bladder or in other membres lyke shalbe defyed with this degestyon. Take rootes of Persly Macedony Phylypendula An̄a. M. z. bothe y<seg rend="sup">e</seg> water Cresses Felde brere Fyue croppes of fyue leued Grasse Sede of Selondyne Rosemary Herbe Iohan Gladen Ioyce of Celon<g ref="char:EOLhyphen"/>dyne Ioyce of Persly .li. Grāyll .ii. drāmes Spyck<g ref="char:EOLhyphen"/>narde sede of Cucumber Camamyll Honysokles An̄s Fynkell An̄a a drāme Persly sede Stāmarch sede Boynworte &amp; wylde Lely Spereworte Malsi<g ref="char:EOLhyphen"/>diū An̄a .i. li. Hony Gynger .i. li. wyne of sowre gray<g ref="char:EOLunhyphen"/>nes .i. li. &amp; make a syrop.</p>
+            <p>¶ Now yf hote humours habounde in the same mē<g ref="char:EOLunhyphen"/>bres they be defyed as hote humours in y<seg rend="sup">e</seg> lyuer / with more therto / as Persly rotes / fyue leued gras Sper worte Gladen Fenellrotes / and make thy syrop as the other.</p>
+            <p>¶ Now yf colde humours habounde in the Marys / they shalbe defyed thus. As colde humours be defy<g ref="char:EOLhyphen"/>ed in the reynes with this put to Mugworte Cala<g ref="char:EOLhyphen"/>mynte rotes of Gladen Garlyke Lysby Betony .iii. drammes.</p>
+            <p>¶ If hote humours habounde in the Marrys / they shalbe defyed as other hote humours in the reynes / but do therto more of Mugworte.</p>
+            <p>¶ And olde humours habounde in the ioyntes / they shalbe defyed thus. Take y<seg rend="sup">•</seg> ioyce of herbe Iue .i. li. Or take herbe Iue and Mugworte. M .i. Gladē Ly<g ref="char:EOLunhyphen"/>ly rotes Endyue Capill{us} Veneris Adeantes. M .i. flowre of Camamyll / flowres of Honysokles / fenel / wylde Lyly sede / sperworte sede a drāme of a rose / 
+<pb facs="tcp:11326:18"/> clene Lycoryce / sede of Letuse / a dramme of Hony / Gynger .i. li. and make a syrop.</p>
+            <p>¶ And there be hote humours that habounde in the ioyntes / they shalbe defyed thus. Take Endyue &amp; Sowthystell Hartestonge / ioyce of Iue / &amp; of herbe Iue / Vyolet / flowres of Camamyll / Honysokles / rose / sede of Letuse / vt prius.</p>
+            <p>¶ And knowe well that there be humours cōposed &amp; habundaunt in the same membres / and so they must be defyed lyke as they be composed in dyuers hu<g ref="char:EOLhyphen"/>mours. And membres / medycynes laxatyue cōpost and gendred togyder as dyuersycat of humours &amp; membres.</p>
+            <p>¶ There be some receytes that pryncypally voyde flewme / as doctours do say / and they call them Ele<g ref="char:EOLhyphen"/>ctuaryes / as these y<seg rend="sup">•</seg> do folowe. Ierapigra / Benedi<g ref="char:EOLhyphen"/>cta / Blanca / Iodorycon / Araccardinum / Stomati<g ref="char:EOLhyphen"/>cum laxatiuum / Pille archi / Paulinum.</p>
+            <p>¶ Ther be other receytes that pryncypally do purge Malancoly / as these. Katertecaria imperiale / Iera rufus / Diacene / Trisfera saracina / Ieralagodyon / Theodorum / Euperston.</p>
+            <p>¶ Now some ther be that pryncypally voyde colour as a lectuary de succo Rosarum and Diaprums.</p>
+            <p>¶ Also dyuersytes of membres dyuersytes of me<g ref="char:EOLhyphen"/>dycynes.</p>
+            <p>¶ Also Ierapigra &amp; Benedicta of theyr proprytes shulde voyde flewme / and Benedicta namely in the reynes voydeth flewme.</p>
+            <p>¶ Refrosyn &amp; Iera sacra do purge {pro}perly y<seg rend="sup">e</seg> flewme in the heed. Also it is good for the eeres and y<seg rend="sup">e</seg> eyes / and it purgeth the hardnesse of the splenne / also it
+<pb facs="tcp:11326:19"/> maketh clene the Marres.</p>
+            <p>¶ Benedicta that is called the blessed receyte / for it is good for the gowte in the ioyntes / in the handes / and in the fete / in t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bladder and in the reynes.</p>
+            <p>¶ Bluca is good to purge humours flewmatyke / &amp; for the venym in the arme that is called Cehpasia / &amp; it is good for ache in the veynes / for the Palsy / and for the Epylence.</p>
+            <p>¶ Araccardinum is called Anacardis whose propry<g ref="char:EOLunhyphen"/>teis to entre and voyde flewme / properly of y<seg rend="sup">e</seg> heed / and most behynde. And this lectuary shall restore a<g ref="char:EOLhyphen"/>gayne the wytte / to gader memory / &amp; the turnynge of the brayne y<seg rend="sup">e</seg> whiche is called Verusor of flewme Also it profyteth agaynst the sekenesse of the Mar<g ref="char:EOLhyphen"/>res or sekenesse that cometh of a colde cause.</p>
+            <p>¶ Stomaticum laxatiuum et Electuaria dulce pur<g ref="char:EOLunhyphen"/>gant humores frigidos in stomacho.</p>
+            <p>¶ Pilule Arthiria properly do purge flewme in the reynes. And it is good for the gowte in the handes and fete as Podager.</p>
+            <p>¶ Pilule Aure do purge flewme in the heed / &amp; pro<g ref="char:EOLhyphen"/>perly they sharpe the whyte of the eyes. And they be good agaynst the sekenesse of the eyes.</p>
+            <p>¶ Pilule Fetide they purge great flewme in y<seg rend="sup">e</seg> ioyn<g ref="char:EOLhyphen"/>tes. They be best for the Sitica passio / the whiche is a malady that begynneth in the reynes and draweth to the harte / and it byteth a man or a woman as sore as they shuld dye. And a great whyle after it passeth away as wynde / but there shall no meet for y<seg rend="sup">•</seg> tyme passe throughe thē. Also Pilule Fetide be good for ioyntes.</p>
+            <p>¶ Pilule de Euforbie do purge humours of flewme
+<pb facs="tcp:11326:19"/> fallyge fro y<seg rend="sup">e</seg> brayne to the senowes. And it is good for the Palsy / whiche confeceyon Auyc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n y<seg rend="sup">•</seg> doctour drewe out of the Antedoctary.</p>
+            <p>¶ Pilule Chochie they <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ge humours fro the web<g ref="char:EOLhyphen"/>bes of the brayne. And it is good for the Epylence.</p>
+            <p>¶ Pallinum is called the great Antedoctary / it hath great vertue. It is a good lectuary for the longes / for the olde coughe that is departynge of y<seg rend="sup">•</seg> colde hu<g ref="char:EOLhyphen"/>mours fro the heed to the brest. And it is good for y<seg rend="sup">•</seg> vycesse of the brest of colde humours and purgeth y<seg rend="sup">•</seg> heed / the brest and the stomake of flewme and ma<g ref="char:EOLhyphen"/>lancoly. And the quantyte that shulde be vsed ther of is the weyght of two pens halfpeny at ones / &amp; the pacyent be stronge of compleccyon than gyue to the pacyent two drammes / that is dowble y<seg rend="sup">e</seg> weyght be<g ref="char:EOLhyphen"/>fore sayde / and so it dureth and worketh as dyuers humours do abyde in dyuers membres more thā na<g ref="char:EOLunhyphen"/>ture wyll. Euenly dyuers medycynes shulde euēly be medled togyder. And of some medycyne more than of another / as medycynes that be compoūded shulde be sharped with dyuers sharpynges / and the medycyne shulde be made of dyuers thynges / as the dyuersyte of humours do aske.</p>
+         </div>
+         <div type="part">
+            <head>¶ Here folow medycynes to purge Malancoly.</head>
+            <p>
+               <seg rend="decorInit">P</seg>Vrgyng of medicynes Malācolyus the fyrst is Iera Rufini y<seg rend="sup">e</seg> whiche pur<g ref="char:EOLunhyphen"/>geth and voydeth Malancolyes: so y<seg rend="sup">•</seg> it is good for them that that be scab<g ref="char:EOLhyphen"/>bed of a salte flewme &amp; for an euyll called Elephacie nyghe as it were le<g ref="char:EOLhyphen"/>pur.
+<pb facs="tcp:11326:20"/> And it is good for y<seg rend="sup">•</seg> Morfewe that wyl chaūge in dyuers placys.</p>
+            <p>¶ Also Diacene a lectuary wyl auoyde y<seg rend="sup">•</seg> habūdaūce of humours in the splenne and the harte. Also it is good for the splenne / or for them that be troubled with fantasyes or sorowes.</p>
+            <p>¶ Trifera sarasenica it is called Trifera bycause it maketh olde men to appere yonge men. And it is called Sarasenica bycause it was founde amonge the Sarasyns. It voydeth Malancoly out of the heed / the stomake and the lyuer / and the stoppynges of the veynes and the senowes that go to y<seg rend="sup">e</seg> splenne. Also it is good for Veterica whiche is called y<seg rend="sup">•</seg> great Iaunesse / whiche cometh of colour that is brente.</p>
+            <p>¶ Ierologodyon Nymphitum Iera Sacra Logo<g ref="char:EOLunhyphen"/>sa and Struere Nymphitum and Inpeditū. This lectuary wyll hele a man that may not speke / for it purgeth properly out of the heed Malancoly and flewme / so that it is good for y<seg rend="sup">•</seg> senowes called Ver<g ref="char:EOLhyphen"/>tige. Also it is good for a venym that is called Cle<g ref="char:EOLhyphen"/>pasite. Also it is good for them that dreme on nygh<g ref="char:EOLunhyphen"/>tes that they se dyuers spyrytes.</p>
+            <p>¶ Caterica imperiale / et laxatiuum. Emperoures &amp; great lordes founde this lectuary. It purgeth Ma<g ref="char:EOLhyphen"/>lancoly humours in the reynes / and an euyll that is called Refroticis. Also it letteth fowle wynde out of the stomake and the reynes. Also it is good for Illiosis y<seg rend="sup">e</seg> whiche is a malady that rotteth deedly y<seg rend="sup">e</seg> wynde that ryseth byneth in the chynes ende &amp; goth to the harte.</p>
+         </div>
+         <div type="part">
+            <head>¶ Here foloweth Electuaryes to auoyde Coloure.</head>
+            <pb facs="tcp:11326:20"/>
+            <p>
+               <seg rend="decorInit">N</seg>Ow wyll I wryte of them y<seg rend="sup">•</seg> auoyde colours / and fyrst of the Electuary called Diapru<g ref="char:EOLhyphen"/>nis. It is called so bycause it standeth most by Prunes / &amp; it voydeth colour fro the sto<g ref="char:EOLhyphen"/>make and fro the lyuer.</p>
+            <p>¶ Electuary of y<seg rend="sup">e</seg> ioyce of Ro<g ref="char:EOLunhyphen"/>ses that is properly agaynste the hote Gowte &amp; pur<g ref="char:EOLhyphen"/>geth the reed colour. And it is good for sekenesse in the ioyntes of colour. Also for them y<seg rend="sup">•</seg> be ryght seke in the Feuer tercyan.</p>
+         </div>
+         <div type="part">
+            <head>¶ How thou shall knowe to gyue y<seg rend="sup">•</seg> quā<g ref="char:EOLunhyphen"/>tytye of Medycynes.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Edicynes before that they be cō<g ref="char:EOLunhyphen"/>poūded togyder / they be dyuers in y<seg rend="sup">•</seg> makynge / as some of more &amp; some of lesse / as of Scamo<g ref="char:EOLhyphen"/>ny &amp; of other veymy moystyn<g ref="char:EOLhyphen"/>ges &amp; vyolent / as Turbyt Ele<g ref="char:EOLhyphen"/>bre Agryt Euforbie Colo Aloe &amp; of all other lyke these / so that the takynge of Ira<g ref="char:EOLhyphen"/>pygra shalbe .iii. drammes. The weyght of a drame is two pens halfpeny. ¶ Ieraphim but .ii. drammes for that is more compounded with venymous me<g ref="char:EOLhyphen"/>dycynes and vyolentes thā Ierapigra / therfore the lesse shalbe taken therof. ¶ Also of Beredicta may be. iii drammes. ¶ Also of Blanca .iii. drāmes. Also of pilularū Archicarum shulde be taken .iii. drāmes.
+<pb facs="tcp:11326:21"/> ¶ Also of pilule Aure .iii. drammes. ¶ Also of pilu<g ref="char:EOLhyphen"/>larum de Euforbie .iii. drammes. ¶ Also of pilula<g ref="char:EOLhyphen"/>rum Fetidum and of Stomaticum laxatiuum .ii. drammes. ¶ Also of electuarium dulce .ii. drammes ¶ Also of Theodoricon anancardium .iii. drāmes. ¶ Now I haue shewed you of the gyuynge of the quantyte of medycynes / and the dyuersyte of them how they auoyde superfluyte of flewme or colour.</p>
+            <div type="recipe">
+               <head>¶ Here begynneth the quantytes to auoyde Malā<g ref="char:EOLhyphen"/>coly.</head>
+               <p>AS it is sayde of Ieraphyny / so we shall saye of Diacene / and the gyuynge of the quantyce shalbe an vnce. Hoc Auicen. ¶ Also of trifera Sa<g ref="char:EOLhyphen"/>rasenica the receyte of it is .iiii. drammes. ¶ Also of Theodoricon eupisticon. ii drammes. ¶ Also the re<g ref="char:EOLunhyphen"/>ceyte of Ieralododyon .ii. drammes euen. ¶ Also of Caterica imperiale .i. dramme.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Now it shalbe sayd of y<seg rend="sup">•</seg> quātytes of medycynes.</head>
+               <p>TO auoyde Colour / as of Diaprunis .ii. dram<g ref="char:EOLhyphen"/>mes. ¶ Also the receyte of succa Rosarum be .iii. drammes. These be the most gyuynge of medy<g ref="char:EOLhyphen"/>cynes compoūnded.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Now y<seg rend="sup">e</seg> medycynes y<seg rend="sup">•</seg> wyl auoyde colde humours.</head>
+               <p>MEdycynes that auoyde colde humours of the brest and of his membres and veynes / y<seg rend="sup">•</seg> fyrste is Pallinum that muste be sharped with .iii. dram<g ref="char:EOLhyphen"/>mes
+<pb facs="tcp:11326:21"/> of Agryll / repressed with a drāme of the ioyce of Lycoryce. ¶ Medycynes that shulde purge colde humours of the stomake and of the lyuer shulde be sharped with .ii. drammes of Turbyt / and repressed with a dramme of the powder of Peper or with Mi<g ref="char:EOLunhyphen"/>rabolanus Indiis lebuli / as theyr quātytes be sayde before / or with Esule ope / as is sayde before.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ How hote humours shulde be purged &amp; sharped.</head>
+               <p>DOw hote humours shulde be purged &amp; shar<g ref="char:EOLhyphen"/>ped with Mirabolan{us} Cytemys / or with Ru<g ref="char:EOLhyphen"/>barba / or with Cassia fistula asania / or with Tama<g ref="char:EOLhyphen"/>ridis or Scamyon. And ther be ony Dropsy of olde tyme fastned on the lyuer / the Medycyne maye not be sharped with Scamony / for that wolde take of y<seg rend="sup">e</seg> skynne of the lyuer / therfore take Esula or Rubar<g ref="char:EOLhyphen"/>ba and do to the medycynes as is before wryten.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>¶ Here after foloweth dyuers and many colours of Vryns / &amp; euery Vryn his Vrynall / with tokens how you shall knowe the dysease of the pacyēt.</head>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure>
+               <seg rend="decorInit">T</seg>He vryne that is Reed as fyne golde / orels as frēche golde / nother to thycke nor to thynne / with a clene and euē sub<g ref="char:EOLhyphen"/>substaunce betokeneth helthe in a sanguyne man.</p>
+            <pb facs="tcp:11326:22"/>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne yelowe as an Orenge / orels lyke the ioyce of Celondyne / and thynne with an euen and clene substaunce betokeneth helthe of a coloryke man.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte or pale / nother to thycke nor to thynne / with a clene and euen sub<g ref="char:EOLhyphen"/>staunce betokeneth helthe in in a manlan<g ref="char:EOLhyphen"/>coly man.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte as water / &amp; not to thynne / with beames as they were ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>des aperyng in the myddes betokeneth sekenesse of the splenne. ¶ Thes be the tokens. Ouertwharte swel<g ref="char:EOLhyphen"/>lynge in y<seg rend="sup">e</seg> syde with hardnes / indegestyon / a small necke / a lene body / heuynesse and slouthe in all y<seg rend="sup">•</seg> bo<g ref="char:EOLhyphen"/>dy / and namely and they go agaynst a hyll / palenes of vysage / and swellynge after meet.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte and thynne with flesshly &amp; longe resolucyons / moche in quantyte and ofte made / betokeneth a sekenesse that is called Diabites / and of the sayde sekenesse cometh vryne ouer moche and vnmesurable. ¶ The tokens. Great thrust / vnmesurable drynesse of body / &amp; this bredeth often the Dropsy.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte &amp; thynne / with smal roūde motes betokeneth the colde gowte. ¶ The tokens. The pacyent is wanne of colour &amp; shakynge.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte and thynne as water with a maner of derknesse and with grauel beto<g ref="char:EOLunhyphen"/>keneth
+<pb facs="tcp:11326:22"/> the Stone and the spyces therof / as is shew<g ref="char:EOLunhyphen"/>ed in the contentes.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte &amp; thynne longe contynu<g ref="char:EOLunhyphen"/>ynge with scales and blacke resolucions / be<g ref="char:EOLunhyphen"/>tokeneth in womans water withholdynge of her flowres. ¶ The tokens. Ache in the heed / the backe and the necke. In the nether party of the bo<g ref="char:EOLhyphen"/>dy / the wombe desyreth no meet and euyll appetyte.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte / great / and thycke / and ly<g ref="char:EOLhyphen"/>tell in quantyte / fresshe in the begynnyng / and after it waxeth whyte and thynne and moche in quantyte in the Iudycyal day / betokeneth a Feuer called Amphernie / &amp; some call it a Feuer co<g ref="char:EOLunhyphen"/>tydyane / &amp; it betokeneth solucyon of y<seg rend="sup">e</seg> same Feuer.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne in the begynnynge whyte &amp; lyke whey &amp; thycke with grauell / &amp; after thynne with grauell without purgacyon betoke<g ref="char:EOLhyphen"/>neth the stone conserued and akynge in the reynes. Suche vryne is most wycked and peryllous / and y<seg rend="sup">•</seg> sekenesse is vncurable / but it be by surgery.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne in the begynnynge reed and shyn<g ref="char:EOLunhyphen"/>ynge as flammes of fyre / and thynne / and after whyte and thynne betokeneth y<seg rend="sup">e</seg> Fre<g ref="char:EOLhyphen"/>nesy. ¶ These be y<seg rend="sup">e</seg> tokēs. A feuer / agu / great thurst / alyenacyon of mynde / and many tymes they thynke theyr bedd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is full of strawe / and whan they can not fynde the strawe they be merucylous wrothe.</p>
+            <pb facs="tcp:11326:23"/>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte and thynne / also as colour of leed with whytnesse betokeneth y<seg rend="sup">e</seg> Epy<g ref="char:EOLhyphen"/>lence &amp; y<seg rend="sup">e</seg> fallynge euyll. ¶ These be the to<g ref="char:EOLhyphen"/>kens. Heuynes of heed / slowth of y<seg rend="sup">•</seg> body / galpynge / quakynge of handes and fete / polucyon of kynde / pyssynge agaynst wyll. And these tokēs come som<g ref="char:EOLhyphen"/>tyme before the Axcys / saue polucyon and makyng of water.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte and ryght thynne &amp; clere &amp; moche shynynge / &amp; lytell grauell aperynge betokeneth the Stocomy whiche is called the derknesse of the eyes / with a sweme in the heed / whiche is called Vertigo. ¶ These be y<seg rend="sup">e</seg> tokens. Ache in the heed and namely in the foreheed / derknesse of the eyes / and ouer castynge of the vppermost party<g ref="char:EOLhyphen"/>es / and they se wheles go or rēnynge water they fall downe lothynge of mete and ofte tyme abhomyna<g ref="char:EOLhyphen"/>cyon of the stomake.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte and thynne with ony euyll tokēs betokeneth dethe in a hote agu. And it haue good tokens it betokeneth solucion of the Agu by an impostume vnder y<seg rend="sup">e</seg> Mydrefe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte and thynne betokeneth a Quartayne. And on the morow it shalbe pale. And on the thyrde day or .iiii. it shalbe whyte or glawke.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne in an olde man whyte or thynne in a olde mā betokeneth faylyng of strēgth
+<pb facs="tcp:11326:23"/> and feblynesse of kyndly hete.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte &amp; thynne in a chylde betoke<g ref="char:EOLunhyphen"/>neth noyenge and faute of norysshynge in his lymmes.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte and thynne and ryght so<g ref="char:EOLhyphen"/>tell in them that holde themselfe hole beto<g ref="char:EOLhyphen"/>keneth moche colde of faylynge of natu<g ref="char:EOLhyphen"/>rall hete that shulde defy the meet / and in the lyuer or in the stomake / or in the membres. ¶ The tokens be these. If it be in the lyuer the face and the lyppes shalbe wanne and namely the eye lyddes shall swel / the lyuer is heuy and greuous. And it be in the sto<g ref="char:EOLhyphen"/>make these be the tokens. Heuynesse / swellynge / gal<g ref="char:EOLunhyphen"/>pynge of the stomake / and the meet cometh out vn<g ref="char:EOLhyphen"/>defyed. And it be in other mēbres all the body swel<g ref="char:EOLhyphen"/>leth / and namly in the face / &amp; the eyes do wax feble.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte and thynne in lene people betokeneth wastynge of the substaunce of the body. ¶ These be the tokens. The face is wanne / y<seg rend="sup">e</seg> eyes be holow and dry / a softe hete lyke a softe Feuer in the handes / lothynge of meet / but they wyll not be deceyued.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte and thynne in what seke<g ref="char:EOLhyphen"/>nesse that it be betokeneth indegestion and feblynesse of naturall hete. ¶ The tokens be these. Closynge of wynde vnder the rybbes and the sydes / rumbelynge in the wombe / swellynge of the sydes heuynesse of the eyes and ioyntes / slouth<g ref="char:EOLhyphen"/>full
+<pb facs="tcp:11326:24"/> of all the body to fele or to moeue / and euyl dys<g ref="char:EOLhyphen"/>posed on the lefte syde.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne that is whyte and thycke &amp; derke and a lytell troubled / and yf thou put thy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ande to it it hathe a wanne colour / orels lyke asshes of longe tyme cōtynuynge betokeneth y<seg rend="sup">e</seg> colde Dropsy / that is called Lencofleucia ¶ The to<g ref="char:EOLunhyphen"/>kens. All y<seg rend="sup">•</seg> body swelleth / &amp; the swellynge is nessh / &amp; the thrust it endeth / but it ryseth soone agayne.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte &amp; thycke with an vnclene substaūce and without grauell betokeneth rawe and vyscous flewme in the guttes or eues the colyke. ¶ The tokens. Ache and pryckynge and gnawynge in the syde or holdyng a great parte of the wombe / abhomynacyon / costyfnesse / withhol<g ref="char:EOLunhyphen"/>dynge of water / ache vnder the nauyll. ¶ Tokēs of y<seg rend="sup">e</seg> Ilyake / great gnawynge / akynge / ofte brakynge / &amp; at the last colde dyseases / wakynge / and somtyme brakynge of ordure.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte &amp; thycke throughout with a wanne &amp; vnclene substaunce / without Fe<g ref="char:EOLunhyphen"/>uer becokeneth habundaunce of naturall flewme. ¶ The tokens. Ache in the hynder parte of the heed / indegestyon / swellynge of the sydes / yll sa<g ref="char:EOLhyphen"/>uour of the mouthe / moche spyttynge / euyll wytte / great slepe and slouthe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Color lacte{us}. It is agaynst kynde vryne to be lyke mylke or whey. There is no suche
+<pb facs="tcp:11326:24"/> water as I speke of / for there is none so thynne as mylke or whey and it is cōtrary to the colour. wher<g ref="char:EOLhyphen"/>fore I say whan that vryne is lyke mylke &amp; thynne / I say not that it is party thynne / but that it is most thynne &amp; somwhat thycke / &amp; it is called ī latyn Sub<g ref="char:EOLhyphen"/>temus. The vryne of mylke whyte or wheysshe and thynne in the begynnynge of an Agu betokeneth dethe / &amp; it hathe yl tokens / as Alyenacion of mynde / wakynge yll appetyte / shorte brethe and feblenesse.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte as mylke or whey &amp; thynne &amp; moche in quantyte / in y<seg rend="sup">•</seg> ende of an <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gu betokeneth helthe / yf there be good tokens therin orels not / for he shalbe lōge seke. This vryne and it be lytell in quantyte / it betokeneth moche dry<g ref="char:EOLunhyphen"/>nesse in the body / &amp; the radygall moysture is consu<g ref="char:EOLhyphen"/>med with he<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> &amp; drynesse. Also it betokeneth moche Egestyon / the flyx &amp; feblenesse in the lyuer. Also y<seg rend="sup">•</seg> same vryne in an other Feuer than an Agu &amp; lytell in quantyte in the begynnynge of the Feuer betoke<g ref="char:EOLunhyphen"/>neth very longe endurynge of y<seg rend="sup">•</seg> sekenesse / or dethe / but it be the soner holpen. This vryne moche in quā<g ref="char:EOLunhyphen"/>tyte in the declynynge of the heed of suche a Feuer betokeneth hasty helthe. This vryne without Feuer betokeneth that the body begynneth the Dropsy.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte as mylke or whey &amp; thycke with euen &amp; vnclene substaunce with gra<g ref="char:EOLhyphen"/>uell betokeneth the stone.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte &amp; thycke with vnclene sub<g ref="char:EOLhyphen"/>staunce and without grauell betokeneth y<seg rend="sup">e</seg>
+               <pb facs="tcp:11326:25"/> Colyke and Ilica passio. And these tokens be shew<g ref="char:EOLunhyphen"/>ed before.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte and thycke as mylke / lōge tyme before so cōtynuynge betokeneth in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he hynder parte of the heed ache present.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte as mylke &amp; thycke the fyrst and newe so apperynge betokeneth heed ache comynge.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte as mylke thycke and trou<g ref="char:EOLhyphen"/>bled &amp; lytell in quantyte with longe / roūde / and thycke resolucyons betokeneth y<seg rend="sup">e</seg> flyx.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte as mylke and thycke with small graynes / betokeneth desencyon of flewmatyke partyes &amp; humours to some noble mēbre / wherof myght be engēdred a postume in the same membre.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne whyte as mylke / thycke and fatte and moche in quantyte betokeneth solucy<g ref="char:EOLhyphen"/>on of an inpostume.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Color glauc{us}. Vryne glauke that is shy<g ref="char:EOLhyphen"/>nynge as the horne of a lanterne / whyte &amp; not perfyte whyte / hathe the same sygny<g ref="char:EOLhyphen"/>fycacyon as vryne whyte as water &amp; thynne / but it is not so malycyous a colour / and therfore deme it as the other / but the whyte is more peryllous. Also you must vnderstande that thycknesse &amp; his coloure
+<pb facs="tcp:11326:25"/> may not acorde / for y<seg rend="sup">•</seg> is shynyng may not be thyck.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Color Karapos. This vryne is as falow as a Camelles skynne &amp; thycke longe tyme before so apperynge with a derknesse and {per}turbacyon. And yf thou put thy hande before it / it wyl be wāne &amp; sadde as asshes. And also before the apperynge of this vryne it was whyte and thynne in maner of a derkenesse. And this vryne euer betoke<g ref="char:EOLhyphen"/>neth a colde Dropsy confyrined that is called Len<g ref="char:EOLhyphen"/>cofleucia.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne falowe and thycke with grauell in the botom betokeneth the stone. This same vryne without grauell hathe the Co<g ref="char:EOLhyphen"/>lica passio / or lyke the Passio that is gendred in the vyscous flewme in the guttes.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ ¶ Vryne Karapos. This vryne is falow and thycke / and fro the myddes of y<seg rend="sup">e</seg> vryne vpwarde wanne of coloure / yf thou putte thy hande before it. And this vryne betokeneth a po<g ref="char:EOLhyphen"/>stume vnder the longes. ¶ The tokens be these fo<g ref="char:EOLhyphen"/>lowynge. A Feuer / an Agu / Ache vnder the lefte pappe and anguysshe of the breste / Hardnesse of the the brethe / and clerenesse of the wytte / and clerenesse of the eyes.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Karapos. This vryne thycke and longe before so contynuynge / betokeneth heed ache present. This same vryne not cō<g ref="char:EOLunhyphen"/>nuynge before but newe begynnynge / betokeneth
+<pb facs="tcp:11326:26"/> heed ache comynge in hast.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Karapos. This colour falow and thycke and ryght troubly and lytell in quā<g ref="char:EOLhyphen"/>tyte with longe resolucyons or rounde it be<g ref="char:EOLunhyphen"/>tokeneth the flyx.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Karapos. This vryne thycke and ryght troubly so longe contynuynge with<g ref="char:EOLhyphen"/>out resolucyons but somwhat wanne or yelow throughe apperynge betokeneth y<seg rend="sup">e</seg> colde drop<g ref="char:EOLunhyphen"/>sy / the whiche is called Iposenta. ¶ These be the to<g ref="char:EOLhyphen"/>kens. All the body dothe swell / and the swellynge is moche harder than Lencofleucia / but it is esyer to hele.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Karapos is fro the mydle down<g ref="char:EOLhyphen"/>warde wanne and somwhat tournynge to whyte / it betokeneth y<seg rend="sup">e</seg> Periplemomum as before is shewed.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Color Palidus. ¶ Vryne pale or subpale throughout thycke with vnclene substaūce betokeneth the Feuer cotydyan of natural flewme. ¶ The tokens be these. Heuynesse of heed and namely in the hynder parte of the heed / indege<g ref="char:EOLhyphen"/>styon / swellynge of the sydes / the Axcys euery daye begynnynge most in the thyrde howre of the nyght / &amp; durynge at the most .xii. howres in great trouble. And thanne he hathe in syxe howres false rest / and in the syxe howres folowynge good rest. And it be<g ref="char:EOLhyphen"/>gynneth with great colde and namely in the begyn<g ref="char:EOLhyphen"/>nynge.</p>
+            <pb facs="tcp:11326:26"/>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne pale or subpale &amp; thynne in sub<g ref="char:EOLhyphen"/>staunce betokeneth lordshyp and hyghnes of Malancoly.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne pale or subpale bytwene thycke &amp; thynne in substaunce throughout / but not to thynne in y<seg rend="sup">e</seg> vppermost party of y<seg rend="sup">e</seg> vryne betokeneth a feuer cotydyan gēdred of a merueylo{us} bytter flewme. ¶ The tokens be these folowynge. Ache of the heed with bytternesse of the spytell / in<g ref="char:EOLhyphen"/>degestyon / swellynge of the stomake &amp; fulnesse of y<seg rend="sup">e</seg> sydes. This same vryne in a womā betokeneth the Matrix. This same vryne fyrste apperynge thynne &amp; after that it begynneth to ware thycke betokeneth degestyon of bytter flewme. Also it betokeneth so<g ref="char:EOLhyphen"/>lucyon of the Feuer.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne pale or subpale and clere in sub<g ref="char:EOLhyphen"/>staunce &amp; thynne in a Feuer or Agu with to<g ref="char:EOLunhyphen"/>kens y<seg rend="sup">e</seg> whiche be good / as appetyte / strēgth of vertue / cōfortynge of mynde / easy &amp; good brethe / betokeneth solucyon of y<seg rend="sup">e</seg> Agu by a postume vnder the Mydrefe. This vryne in an Agu with euyll to<g ref="char:EOLhyphen"/>kens / that is to say with euyll appetytes / feble of ver<g ref="char:EOLunhyphen"/>tu / feblenesse of mynde / harde brethe and shorte be<g ref="char:EOLhyphen"/>tokeneth dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne pale in coloure and thynne aboue &amp; wanne lyke asshes &amp; fatte &amp; lyke oyle / ly<g ref="char:EOLhyphen"/>tell in quātyte / without the Flyx come vp<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:11326:27"/> the Tysyke it betokeneth dethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Color Citrinus vryne that is low or sub<g ref="char:EOLhyphen"/>citryne &amp; thynne &amp; euen throughout in sub<g ref="char:EOLhyphen"/>staunce &amp; clere betokeneth as the falow co<g ref="char:EOLhyphen"/>lour. ¶ The tokens be these. Ache of y<seg rend="sup">e</seg> heed &amp; name<g ref="char:EOLhyphen"/>ly the ryght syde / fyrst bytternesse of the mouthe / ab<g ref="char:EOLunhyphen"/>homynacyon of meet / bytynge of the mouthe / &amp; by<g ref="char:EOLhyphen"/>tynge of thy stomake / also thou shal haue great ache in thy backe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Citrinum or subcitrinū &amp; thynne with a thycke substaunce in a womans wa<g ref="char:EOLunhyphen"/>ter betokeneth the Syncopyne / and that is faylynge of harte in moeuynge / and some call it the Crampe of the harte. ¶ The tokens be these folow<g ref="char:EOLhyphen"/>ynge. Quakyng of the harte / defaute of sowle / that is to say moeuynge feblenesse of body.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Citryne or subcitryne &amp; thynne without aperynge lyke yardes in the my<g ref="char:EOLhyphen"/>dle / or lyke woundes / betokeneth the seke<g ref="char:EOLhyphen"/>nesse of the splenne. ¶ These be the tokens folow<g ref="char:EOLhyphen"/>ynge. Swellyng of y<seg rend="sup">e</seg> sydes ouertwharte with hard<g ref="char:EOLunhyphen"/>nesse / indegestyon / smalnesse of the necke and of the extrementes / lownesse of the body &amp; full of slouthe &amp; namely yf they go agaynst a hyll palenesse of face / swellynge of y<seg rend="sup">e</seg> sydes after meet. This same vryne without yardes and moche in quantyte betokeneth drynesse of the lyuer. ¶ These be the tokens folow<g ref="char:EOLhyphen"/>ynge. Fyrst lytell degestyon / lenesse of body / consty<g ref="char:EOLhyphen"/>pulacyon / affumosyte rennynge vp by the throte to
+<pb facs="tcp:11326:27"/> the heed &amp; brennynge the throte. Also ache vnder the ryght syde.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Cytryne or subcytryne with yar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es as is of the Splenne / &amp; namely yf there <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e small motes blacke or wanne in the bo<g ref="char:EOLhyphen"/>tom of y<seg rend="sup">e</seg> vryne it betokeneth y<seg rend="sup">e</seg> Emerawdes / or ony other that is called Atritus with a derke &amp; a blacke mater gadereth aboute the fundament engendred of blode in the party swellynge.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Cytryne or subcytryne clere and thynne graynes or ampoles betokeneth dry<g ref="char:EOLunhyphen"/>nesse of the brest &amp; streytnesse &amp; thurst / wyl<g ref="char:EOLhyphen"/>lynge to drawe in moyst ayer / coughe with drynesse of the throte / also drynesse in the roufe of y<seg rend="sup">e</seg> mouthe of the pacyent.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Cytryne or subcytryne &amp; thynne longe tyme so contynuynge in wynter or in Autumpne betokeneth the erratyke Fe<g ref="char:EOLhyphen"/>uer or quartayne.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Cytryne or subcytryne &amp; thynne in a Feuer or Agu &amp; namely in the begyn<g ref="char:EOLhyphen"/>ynge betokeneth Cardyce of y<seg rend="sup">e</seg> mater and prolyxyte of the sekenesse with euyll tokens. This in the myddes of an Agu or in his state and before the vryne was reed or subreed without indycyall pur<g ref="char:EOLunhyphen"/>gacyon betokeneth the Frenasy of vyolence of the mater smyten vpon the brayne. And yf there were a indycyall purgacyon before &amp; y<seg rend="sup">e</seg> seke began to lyght
+<pb facs="tcp:11326:28"/> it betokenth helth &amp; declynacyon of the Agu. This vryne in a yonge man &amp; an Agu with it &amp; no good tokens it betokeneth dethe. And yf ther be good to<g ref="char:EOLhyphen"/>kens it betokeneth prolyxyte of sekenesse.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Cytryne or subcytryne through<g ref="char:EOLhyphen"/>out thynne in substaunce in a flewmatyke or a malācoly yonge mā betokeneth a sym<g ref="char:EOLunhyphen"/>ple tercyan. This same in a olde flewmatyke or Ma<g ref="char:EOLunhyphen"/>lancoly man betokeneth a contynual feuer without remedy.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Cytryne or subcytryne &amp; thynne in the vppermost party of the vryne &amp; thyn<g ref="char:EOLunhyphen"/>ner in the nether party betokeneth y<seg rend="sup">e</seg> same that the colour dothe that is called Viselma / &amp; it be<g ref="char:EOLhyphen"/>tokeneth great dyseases in the stomake / &amp; more of y<seg rend="sup">e</seg> heed. This vryne in a chylde is called maior Emitri<g ref="char:EOLunhyphen"/>cius / orels a dowble tercyan.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Color Rufus bryne Ruffe or subruffe as gold not to thycke nor to thynne with clene pure and euen substaunce betokeneth a En<g ref="char:EOLunhyphen"/>tratyke body.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe meanely thyck with euen clene &amp; pure substaunce betoke<g ref="char:EOLhyphen"/>neth helthe of a sanguyne man.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe and thynne in a chylde betokeneth a Feuer that is called maior Emitricius. This same vryne in a
+<pb facs="tcp:11326:28"/> olde man betokeneth that he is flewmatyke / and in a woman it betokeneth a dowble tercyan / but yf it be remysshe aboue fro thens / the mater is aboue in the stomake / and yf it be yelowe aboue the mater is aboute the gall / &amp; yf it be wanne aboue the mater is in the spyrytuall membres.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe &amp; thynne lōge contynuynge before without Feuer beto<g ref="char:EOLhyphen"/>keneth chafynge of ouermoche hete in the lyuer.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe &amp; ryght thynne aboute the vppermost party yelow &amp; shy<g ref="char:EOLhyphen"/>nynge longe before / contynuynge in wyn<g ref="char:EOLhyphen"/>ter and ī Autumpne / betokeneth a Feuer quartayne of colour aduste.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe meanely thyn / aboue thycke / &amp; bynethe thynne betokeneth a cotydyan of salte flewme. ¶ The tokēs be these folowynge. Ache of the heed / saltnesse of y<seg rend="sup">•</seg> mouthe / fyrst lothynge meet / abhomynacyon of the stomake / heuynesse of y<seg rend="sup">e</seg> eyes / &amp; somtyme heuynesse in all the body.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe / aboue thycke &amp; byneth thynne / &amp; thou put thy hande to it it wyll be wanne aboue longe tyme conty<g ref="char:EOLhyphen"/>nuynge / before with cōtentes lyke branne. ¶ These be the tokens folowynge. A feuer Etyke. The to<g ref="char:EOLhyphen"/>kens of the spyces of this Feuer be shewed in y<seg rend="sup">•</seg> cō<g ref="char:EOLhyphen"/>tentes.
+<pb facs="tcp:11326:29"/> This vryne but a whyle before contynuyng betokeneth a Feuer that is called minor Emitricius</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe aboue thycke &amp; bynethe thyn with a derke substaūce longe before cōtynuynge betokentth a sekenesse that is called Syncopes / the whiche sekenesse is spo<g ref="char:EOLunhyphen"/>ken of before.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe aboue thycke &amp; bynethe thynne with a derke substaunce &amp; with small resolucyons betokeneth y<seg rend="sup">•</seg> seke<g ref="char:EOLhyphen"/>nesse to be after the apperynge of the contentes / as thus. Thou shall deme y<seg rend="sup">e</seg> places of y<seg rend="sup">e</seg> sekenesse thus. If the cōtentes appere in the vppermost party / the sekenesse is in the vppermost parte of the body. If it be in the myddes / it is in the myddes of the body. If it be in the nether partyes / the sekenesse is in the nether partyes of y<seg rend="sup">e</seg> body. And they apere all aboute so the seknesse is all aboute the body.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe thynne ī a Agu betokeneth the hote Dropsy vncurable / the whiche is called Astnos. Also it betokeneth another that is called Tunpātes &amp; vncurable. For Ipocras saythe in his Amphorisius. Omnis n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>{que} Idropis egritudine malum. And so say other. Vri<g ref="char:EOLunhyphen"/>na Rusa in Ieropico mala. Or thus. De vrina rufa vel subrufa spisa et mediocriter spisa.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe thyck or indyf<g ref="char:EOLhyphen"/>ferently thycke in substaunce / aboue derke
+<pb facs="tcp:11326:29"/> with vnclene &amp; vneuē substaūce betokeneth a Colyk engendred of swete flewme.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe meanely thyck or meanely thynne longe tyme contynu<g ref="char:EOLhyphen"/>ynge / wanne in the vppermost party beto<g ref="char:EOLhyphen"/>keneth dysease in the spyrytuall membres engēdred of salte flewme yf it be meanely thynne &amp; of swete flewme. And yf it be meanely thycke &amp; there be a Fe<g ref="char:EOLunhyphen"/>uer the mater is in the spyrytual membres. ¶ These be the tokens folowynge. Coughe / straytnesse of the brest / anguysshe of brethe / and also anguysshe of y<seg rend="sup">•</seg> harte.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe meanely thyck or meanely thynne / wanne aboue with re<g ref="char:EOLhyphen"/>solucyons lyke scales / somtyme whyte and somtyme blacke / betokeneth that the woman is char<g ref="char:EOLunhyphen"/>ged in the matrix with flewmy maters. Discerne vt prius. ¶ These be the tokens folowynge. Ache vn<g ref="char:EOLhyphen"/>der the lefte syde with styfnesse of the wombe / and swellynge / &amp; namely after meet.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe throughout all thycke in substaunce / aboue shadowed and derke withouot shynynge betokeneth a cō<g ref="char:EOLhyphen"/>tynuall cotydyan engendred of naturall flewme.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe throughout all thycke / <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yf thou put thy hande to it wāne <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with resolucyons small lyke Brym<g ref="char:EOLhyphen"/>stone / a lytell whyle before cōtynuynge / betokeneth
+<pb facs="tcp:11326:30"/> a Feuer that is called minor Emitricius. ¶ The to<g ref="char:EOLhyphen"/>kens be these folowynge. Colde in the extrementes fro euensonge tyme / &amp; so they be in great trauayle to the morowe / they be in trauayle but not so great than to vndercome / &amp; fro vndercome to euensonge tyme they be in false rest. And thā begynneth agayn the Axcys or Feuer / &amp; they ly in the Paraxuum with close eyes / &amp; they may not well open them.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe through thycke aboue wanne &amp; troubled / betokeneth an im<g ref="char:EOLunhyphen"/>postume of the Mydrefe y<seg rend="sup">•</seg> is called Aphu<g ref="char:EOLhyphen"/>risis / &amp; thus thou shall knowe it fro the lesse Emitri<g ref="char:EOLunhyphen"/>cius before sayde. As in the Plurisis the vryne hath mo dessent vanytes than is in the lesse Emitricius. And also in the pluricis is no suche Tipus as in the lesse Emitricius. ¶ The tokens of the Pluricis be these folowynge. An agu pryckynge / ache in y<seg rend="sup">e</seg> syde / a contynuall coughe / &amp; hardnesse of the brethe.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe / thycke aboue / wanne longe tyme contynuynge before / be<g ref="char:EOLunhyphen"/>tokeneth a spyce of the hote Dropsy / that is called Asshytes vncurable. This vryne betokeneth great dysease of the lyuer of brennynge hete / moche thrust / brenynge and brakynge of Coleryke maters. This same vryne lytell contynuynge betokeneth a cotydyan engendred of swete flewme. And the ma<g ref="char:EOLhyphen"/>ter in a man is in the spyrytuall membres / and in a woman the mater is in the matrix. ¶ These ben the tokens folowynge. Heuynesse of the brest with stre<g ref="char:EOLhyphen"/>ytnesse / a coughe / anguysshe of the spyryte / a cotydy<g ref="char:EOLunhyphen"/>an
+<pb facs="tcp:11326:30"/> hette.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe remysshe of co<g ref="char:EOLunhyphen"/>lour fro the myddes vpwarde dystynckly wanne lyke asshes moche spumous in Plu<g ref="char:EOLunhyphen"/>risie / &amp; before was Ruffe and entente of coloure / be<g ref="char:EOLhyphen"/>tokeneth conuersyon of the Plurisie into a Pari<g ref="char:EOLhyphen"/>paleminoum / the whiche is an impostume in y<seg rend="sup">e</seg> share or vnder the arme or vnder the genetall membres.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe / thycke in sub<g ref="char:EOLhyphen"/>staunce / thycker aboue thā bynethe / yf thou put to thy hande wāne aboue / &amp; onely with resolucyons that be called Claynoides longe before tyme contynuynge betokeneth the thre spyces of y<seg rend="sup">•</seg> Etyke vncurable. what Claynodes is / it is shewed in the contentes.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Vryne Ruffe or subruffe throughout all thycke with vnclene substaunce betokeneth a cotydyan engendred of swete Flewme. ¶ The tokens be these folowynge. Heuynesse of y<seg rend="sup">e</seg> heed / swetenesse of the mouthe / fastydye and abho<g ref="char:EOLhyphen"/>mynacyon.</p>
+            <p>
+               <figure>
+                  <figDesc>piss pot to be colored in</figDesc>
+               </figure> ¶ Color rubeus. Vryne reed or subreed as Safron is / throughout thyne / &amp; aboue sha<g ref="char:EOLhyphen"/>dowed and more thycke than bynethe / beto<g ref="char:EOLunhyphen"/>keneth a symple tercyan. ¶ The tokens be these fo<g ref="char:EOLhyphen"/>lowynge. Ache in the heed on the ryght syde / thrust / bytternesse of the mouthe / also tykelynge and moe<g ref="char:EOLhyphen"/>uynge of the flesshe.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:11326:31"/>
+            <head>¶ Here after folowynge thou maye lyghtly knowe &amp; perceyue what medycynes be good for parte of suche vryns as be spoken of before.</head>
+            <div type="recipe">
+               <head>¶ Karapos.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>The beste medycyne for this vryne Karapos is to auente the in the leg<g ref="char:EOLhyphen"/>ges / and to vse croppes of Sage / &amp; drynke Triasendula and vse it.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Kyanos.</head>
+               <p>¶ Take the bone that is in the Har<g ref="char:EOLhyphen"/>tes herte and make powder therof and drynke it &amp; vse Diacameron.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Plumbea.</head>
+               <p>¶ Take Scamony and do it in a Peer and rost it &amp; vse it. Also take the rote of Pyony / Persly / &amp; Visc{us} querci / &amp; make a powder of all these / and vse it in ale or in potage.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Inopos.</head>
+               <p>¶ Take Sauayne and Gromell &amp; boyle them with whyte wyne &amp; Hony &amp; scomme thē wel. Also drynke them erly and late.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Lactea.</head>
+               <p>¶ Make a drynke of the sede of whyte Popy &amp; Le<g ref="char:EOLhyphen"/>tuse &amp; drynke it. Also make oyle of Henbane sede / or els make an oyntment of the herbe of Henbane and anoynt thy temples therwith.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Alba.</head>
+               <p>¶ Make a drynke of Saxfrage Gromel Persly and Sage / &amp; boyle them all in stale ale / &amp; vse the powder
+<pb facs="tcp:11326:31"/> of them in thy potage.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Glauca.</head>
+               <p>¶ Take the ioyce of Tansay and of the reed worte &amp; boyle them in whyte wyne &amp; a lytel Hony therwith &amp; vse this medycyne erly &amp; late.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Nigra.</head>
+               <p>¶ Drynke the ioyce of Sclydon &amp; Molayne &amp; Try<g ref="char:EOLhyphen"/>acle with whyte wyne of Gascoyne erly and late.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Pallida.</head>
+               <p>¶ Take Mirabolanus Iude &amp; Aloes Epaticū / Ce<g ref="char:EOLhyphen"/>ne / &amp; Suger / of Aloe a dramme / &amp; of all the other an vnce / &amp; vse this medycyne erly &amp; late.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Subpallida.</head>
+               <p>¶ Make powder of Gette and of the sede of towne Cresses &amp; Brome sede / and vse this medycyne in thy potage.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Viridis.</head>
+               <p>¶ Take Gynger and Canell &amp; Cene &amp; tempre them with Hony. Also the rote of Saturyon &amp; mustarde sede &amp; Peper of all lyke moche &amp; temper them with Hony. Also let blode vnder the ancle by tyme or in the veyne of the arme.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Subuiridis.</head>
+               <p>¶ Take a pynte of whyte wyne of Gascoyne / and a dramme of Aloes epaticum / &amp; drynke a spone ful at euen &amp; another at morow.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Citrina.</head>
+               <p>¶ Take lycoras / fygges / ysope egrymony or hore<g ref="char:EOLhyphen"/>hounde &amp; Elena campana &amp; boyle them all togyder in a galon of water vnto the halfe be wasted / than strayne away the herbes fro the ioyce and vse it erly and late.</p>
+            </div>
+            <div type="recipe">
+               <pb facs="tcp:11326:32"/>
+               <head>¶ Subcitrina.</head>
+               <p>¶ Take powder of Plipedranis / Aloe epatyke and myngle them with Suger / and vse it in thy potage.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Rubicundus.</head>
+               <p>¶ Take Vyneger and mustarde and boyle them to<g ref="char:EOLhyphen"/>gyder / &amp; than take asmoche as a Nutte of Tryacle &amp; do ther to / &amp; etc of this whan the sekenesse taketh the. And vse Diacameron &amp; Triacendely.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Subrubicundus.</head>
+               <p>¶ This medycyne is as rubicundus is.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Rufus.</head>
+               <p>¶ Take Hony &amp; sethe it tyll it be harde / &amp; do ther to powder of Cene &amp; gynger / &amp; make a playster of Du<g ref="char:EOLhyphen"/>ytte &amp; wyne / &amp; it be the flowres lay it on the nauell.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Subrufus.</head>
+               <p>¶ Make powder of Elena campana &amp; Turmentyll / &amp; medle them with Hony / &amp; boyle them togyder and make a confeccyon / and vse this medycyne fyrst and laste.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Rubeus.</head>
+               <p>¶ Take Tryacle and boyle it in the ioyce of Molen &amp; drynke it. Also Tryacenduly is good therfore.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Subrubeus.</head>
+               <p>¶ Take water Cresses &amp; grynde them small / &amp; boyle them with whyte wyne &amp; drynke it.</p>
+            </div>
+            <div type="recipe">
+               <head>¶ Herball.</head>
+               <p>¶ All they that desyre to haue knowlege of Medy<g ref="char:EOLhyphen"/>cynes / for all suche Vryns as be before in this boke / go ye to the Herball in Englysshe / or <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the boke of medycynes / and there you shall fynde all suche Me<g ref="char:EOLhyphen"/>dycynes that be most profytable for man.</p>
+            </div>
+            <trailer>¶ FINIS.</trailer>
+            <pb facs="tcp:11326:32"/>
+         </div>
+      </body>
+   </text>
+</TEI>
